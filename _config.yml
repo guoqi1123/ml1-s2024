@@ -29,7 +29,8 @@ baseurl: /ece595/      # place folder name if the site is served in a subfolder
 
 # Build settings
 markdown: kramdown
-theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs
+# theme: just-the-docs
 plugins:
   - jekyll-feed
 
