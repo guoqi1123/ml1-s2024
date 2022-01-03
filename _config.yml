@@ -13,19 +13,22 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Machine Learning I
+title: Machine Learning
 email: guo675@purdue.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+  ECE 595 / STAT 598 at Purdue University in Spring 2022
+baseurl: "/ece595" # the subpath of your site, e.g. /blog
+url: "qiguo.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  guoqi1123
-domain: guoqi1123.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://guoqi1123.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+domain: qiguo.org       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://qiguo.org  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: /ece595/      # place folder name if the site is served in a subfolder
+
+# Footer last edited timestamp
+last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
+last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https://ruby-doc.org/stdlib-2.7.0/libdoc/time/rdoc/Time.html
+
 
 # Build settings
 markdown: kramdown
