@@ -21,9 +21,9 @@ baseurl: "/ece595" # the subpath of your site, e.g. /blog
 url: "qiguo.org" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  guoqi1123
-domain: qiguo.org       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://qiguo.org  # the base hostname and protocol for your site, e.g. http://example.com
-baseurl: /ece595/      # place folder name if the site is served in a subfolder
+domain: ece595.qiguo.org       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://ece595.qiguo.org  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: /      # place folder name if the site is served in a subfolder
 
 # Footer last edited timestamp
 last_edit_timestamp: true # show or hide edit time - page must have `last_modified_date` defined in the frontmatter
@@ -32,8 +32,8 @@ last_edit_time_format: "%b %e %Y at %I:%M %p" # uses ruby's time format: https:/
 
 # Build settings
 markdown: kramdown
-remote_theme: pmarsceill/just-the-docs
-# theme: just-the-docs
+remote_theme: pmarsceill/just-the-docs # uncomment for github build
+# theme: just-the-docs # uncomment for local build
 plugins:
   - jekyll-feed
 
