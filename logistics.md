@@ -34,7 +34,8 @@ To help you determine if you have adequate pre-requisites, we encourage you to t
 [Homework 0: (PDF.)](/ece595/assignments/hw0.pdf)
 
 ## Grades
-All students will be graded by the rubrics listed below. Everyone (PhD, MS, undergrad) will be graded on the same curve. If you choose Pass-No Pass, you still need to do everything. If you are above the cut off, you will pass. 
+All students will be graded by the rubrics listed below. Everyone (PhD, MS, undergrad) will be graded on the same curve. 
+<!-- If you choose Pass-No Pass, you still need to do everything. If you are above the cut off, you will pass.  -->
 
 
 **Homework (10%).** There are six homeworks. I will drop the worst one. Each homework will have 2 points: If you complete the homework, you get 2. If you are partially done with the homework, you get 1. If you do not submit, you get 0. I do not accept late homework.

@@ -4,13 +4,14 @@ title: Homeworks
 parent: Assignments
 nav_orders: 1
 ---
+# Homeworks 
 
 ## Submitting Your Homework  
 **Due Date / Time:** Homework is due 11:59pm Eastern Time on the due day. Please submit your homework through [Gradescope]().
 
 Late homework will not be accepted.
 
-## Homeworks
+## Due Dates
 - [Homework 0 (PDF.)](hw0.pdf) Do not hand in.
 - Homework 1. Due: Jan. 28, 2022. 11:59pm Eastern Time.  
 - Homework 2. Due: Feb. 11, 2022. 11:59pm Eastern Time.
