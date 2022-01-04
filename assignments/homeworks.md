@@ -15,7 +15,7 @@ Late homework will not be accepted.
 - Homework 1. Due: Jan. 28, 2022. 11:59pm Eastern Time.  
 - Homework 2. Due: Feb. 11, 2022. 11:59pm Eastern Time.
 - Homework 3. Due: Feb. 25, 2022. 11:59pm Eastern Time.
-- Homework 4. Due: Mar. 11, 2022. 11:59pm Eastern Time.
+- Homework 4. Due: **Mar. 10, 2022 (Thu).** 11:59pm Eastern Time.
 - Homework 5. Due: Apr. 2, 2022, 11:59pm Eastern Time.
 - Homework 6. Due: Apr. 15, 2022, 11:59pm Eastern Time.
 

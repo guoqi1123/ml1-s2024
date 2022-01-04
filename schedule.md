@@ -45,7 +45,7 @@ Jan 10, 2022 - Apr 30, 2022
 
 **Week 4**
 - Feb 1, 2022. Lecture 6.
-    - Topics: Quiz 1 & Linear Separability
+    - Topics: Linear Separability
 - Feb 3, 2022. Lecture 7.
     - Topics: Bayesian Classifier I
 
@@ -57,7 +57,7 @@ Jan 10, 2022 - Apr 30, 2022
 
 **Week 6**
 - Feb 15, 2022. Lecture 10.
-    - Topics: Quiz 2 & Parameter Estimation
+    - Topics: Parameter Estimation
 - Feb 17, 2022. Lecture 11.
     - Topics: Logistic Regression I
 
@@ -69,7 +69,7 @@ Jan 10, 2022 - Apr 30, 2022
 
 **Week 8**
 - Mar 1, 2022. Lecture 14.
-    - Topics: Quiz 3 & Kernel Trick
+    - Topics: Kernel Trick
 - Mar 3, 2022. Lecture 15.
     - Topics: Probability Inequality
 
@@ -84,7 +84,7 @@ Jan 10, 2022 - Apr 30, 2022
 
 **Week 11**
 - Mar 22, 2022. Lecture 18.
-    - Topics: Quiz 4 & Generalization Bound
+    - Topics: Generalization Bound
 - Mar 24, 2022. Lecture 19.
     - Topics: Growth Function
 
@@ -96,7 +96,7 @@ Jan 10, 2022 - Apr 30, 2022
 
 **Week 13**
 - Apr 5, 2022. Lecture 22.
-    - Topics: Quiz 5 & Bias and Variance
+    - Topics: Bias and Variance
 - Apr 7, 2022. Lecture 23.
     - Topics: Overfitting
 
@@ -108,7 +108,7 @@ Jan 10, 2022 - Apr 30, 2022
 
 **Week 15**
 - Apr 19, 2022. Lecture 26.
-    - Topics: Quiz 6 & Recurrent Networks and Transformers
+    - Topics: Recurrent Networks and Transformers
 - Apr 21, 2022. Lecture 27.
     - Topics: Generative Adversarial Networks
 
