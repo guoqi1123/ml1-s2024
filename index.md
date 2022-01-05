@@ -33,14 +33,14 @@ You may specify the person in your email. We will do our best to have him/her re
 **Office Hours:** To Be Announced
 
 
-## Course Correspondences
+<!-- ## Course Correspondences
 There are several ways this course will send out correspondences. Their usages are described below.  
 [Main Site:](https://ece595.qiguo.org/) Course information, homework posts, lecture notes/handouts, announcements.   
 [BrightSpace:](https://purdue.brightspace.com/d2l/home/460528) Homework solutions, announcements.  
 [GradeScope:](https://www.gradescope.com/courses/345155) Homework/quiz/final project submission, grades.  
 [Piazza:](https://piazza.com/purdue/spring2022/ece595stat598) This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. Please let me know if you have trouble accessing Piazza.  
 [Mailing List:](https://engineering.purdue.edu/ECN/mailman/admin/ece595ml-list) After enrollment, you will automatically be added to the course mailing list. It will send out all course announcements. If you do not receive emails from us, please let us know.  
-<!-- [Course Calendar:]() Subscribe to the course calendar to get reminders on classes, homework due dates, etc. -->
+[Course Calendar:]() Subscribe to the course calendar to get reminders on classes, homework due dates, etc. -->
 
 
 
