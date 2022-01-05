@@ -7,18 +7,18 @@ nav_orders: 1
 # Homeworks 
 
 ## Submitting Your Homework  
-**Due Date / Time:** Homework is due 11:59pm Eastern Time on the due day. Please submit your homework through [Gradescope]().
+**Due Date / Time:** Homework is due **4:59pm** Eastern Time on the due day. Please submit your homework through [Gradescope](https://www.gradescope.com/courses/345155).
 
 Late homework will not be accepted.
 
 ## Due Dates
 - [Homework 0 (PDF.)](hw0.pdf) Do not hand in.
-- Homework 1. Due: Jan. 28, 2022. 11:59pm Eastern Time.  
-- Homework 2. Due: Feb. 11, 2022. 11:59pm Eastern Time.
-- Homework 3. Due: Feb. 25, 2022. 11:59pm Eastern Time.
-- Homework 4. Due: **Mar. 10, 2022 (Thu).** 11:59pm Eastern Time.
-- Homework 5. Due: Apr. 2, 2022, 11:59pm Eastern Time.
-- Homework 6. Due: Apr. 15, 2022, 11:59pm Eastern Time.
+- Homework 1. Due: Jan. 28, 2022. 4:59pm Eastern Time.  
+- Homework 2. Due: Feb. 11, 2022. 4:59pm Eastern Time.
+- Homework 3. Due: Feb. 25, 2022. 4:59pm Eastern Time.
+- Homework 4. Due: **Mar. 10, 2022 (Thu).** 4:59pm Eastern Time.
+- Homework 5. Due: Apr. 2, 2022, 4:59pm Eastern Time.
+- Homework 6. Due: Apr. 15, 2022, 4:59pm Eastern Time.
 
 ## Online Homework Submission
 - Go to [Gradescope](https://www.gradescope.com/courses/345155)
