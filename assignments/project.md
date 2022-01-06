@@ -34,7 +34,7 @@ The project will be graded in a two-phase process.
 
 **Phase 1:** Initial Submission (Optional)
 
-Apr 8, Friday, 11:59pm Eastern Time.
+Apr 8, Friday, **4:59pm** Eastern Time.
 
 This submission is voluntary.
 
@@ -50,7 +50,7 @@ Please submit through gradescope.
 
 **Phase 2:** Final Submission
 
-Apr 29, Friday, 11:59pm Eastern Time.
+Apr 29, Friday, **4:59pm** Eastern Time.
 
 Hard deadline. No extension.
 
