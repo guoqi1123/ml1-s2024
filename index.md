@@ -12,7 +12,7 @@ Spring 2022
 Jan 10, 2022 - Apr 30, 2022  
 
 ## Announcements
-- Please check out the webpage for course information.
+- The class will be live-streamed and recorded for students who have to isolate or quarantine. Zoom information on BrightSpace.
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  
@@ -21,7 +21,7 @@ Jan 10, 2022 - Apr 30, 2022
 **Location**: Mechanical Engineering Bldg 1130  
 **Course Credit Hours**: 3.00
 
-For Spring 2022, the class is tentatively offered only in-person. Should there be any changes to how the course is offered, it will be announced on this website.
+**For Spring 2022, the class is primarily offered in-person. However, the class will be live streamed on Zoom and recorded, so that students who have to isolate or quarantine can attend the class remotely. The Zoom information can be found on BrightSpace.**
 
 ## Contact and Office Hours
 For any course related issue, please use the course email below. Please do not email our teaching staff using their personal email addresses.  
