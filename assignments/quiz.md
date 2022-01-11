@@ -8,6 +8,13 @@ nav_orders: 2
 # Quizzes
 There will be six quizzes, and the worst one will be dropped. Each quiz is 30 minutes long. Each quiz will carry 8%. The quizzes are conducted right after the due date of the homework. You will be given a 24-hour window to complete the 30-min quiz, completely online. During the quiz, I will ask you lecture questions. I will also ask you homework questions. For example, if in the homework I ask you to plot a figure, I may ask you to change a parameter and re-plot the figure. Quizzes will be open-book, open-note, open-computer. However, with only 30 minutes, you probably will not have time to read anything besides answering the questions. So, please do the homework.
 
+**Quiz 0. Don't count in the grade.**
+
+- Time: Jan 21 (Fri) 8am ET to Jan 23 (Sun) 8am ET.
+- Length of quiz: 30 minutes.
+- Access through gradescope.
+- Coverage: Homework 0.
+
 **Quiz 1 (8%).**
 
 - Time: Jan 29 (Sat) 8am ET to Jan 30 (Sun) 8am ET.
