@@ -31,7 +31,7 @@ This course was originally developed by [Prof. Stanley Chan](https://engineering
 
 To help you determine if you have adequate pre-requisites, we encourage you to try homework 0:
 
-[Homework 0: (PDF.)](/ece595/assignments/hw0.pdf)
+[Homework 0: (PDF.)](/assignments/hw0.pdf)
 
 ## Grades
 All students will be graded by the rubrics listed below. Everyone (PhD, MS, undergrad) will be graded on the same curve. 
