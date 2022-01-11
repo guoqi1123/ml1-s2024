@@ -10,7 +10,7 @@ There will be six quizzes, and the worst one will be dropped. Each quiz is 30 mi
 
 **Quiz 0. Don't count in the grade.**
 
-- Time: Jan 21 (Fri) 8am ET to Jan 23 (Sun) 8am ET.
+- Time: Jan 14 (Fri) 8am ET to Jan 16 (Sun) 8am ET.
 - Length of quiz: 30 minutes.
 - Access through gradescope.
 - Coverage: Homework 0.
