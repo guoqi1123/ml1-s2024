@@ -12,7 +12,7 @@ Jan 10, 2022 - Apr 30, 2022
 
 **Week 1**
 - Jan 11, 2022. Lecture 0. 
-    - Topics: Course overview and mathematics review.
+    - Topics: Course overview and mathematics review. ([Hand-written Note.](./notes/lec0.pdf))
     - Reading: 
         - [Python Tutorial.](../resources/python.html) 
         - [Python for Matrices.](https://drive.google.com/file/d/1H7oBGaskGj09dAYjE3uAScMsgOM2aS2S/view) (Password is in BrightSpace.)
