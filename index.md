@@ -30,7 +30,10 @@ For any course related issue, please use the course email below. Please do not e
 
 You may specify the person in your email. We will do our best to have him/her reply your email as soon as possible.
 
-**Office Hours:** To Be Announced
+**Office Hours:** 
+
+Prof. Qi Guo. TuTh 5:45pm-6:45pm. ME 1130.
+Varun Aggarwal. TBD
 
 
 <!-- ## Course Correspondences
