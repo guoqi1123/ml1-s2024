@@ -12,7 +12,7 @@ Spring 2022
 Jan 10, 2022 - Apr 30, 2022  
 
 ## Announcements
-- Homework 1 Out. Due Jan 28 4:59pm.
+- Homework 1 Out. Due Jan 28 4:59pm. Homework will be posted on the day of previous homework due in the future.
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  
