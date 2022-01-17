@@ -12,8 +12,7 @@ Spring 2022
 Jan 10, 2022 - Apr 30, 2022  
 
 ## Announcements
-- Please fill out a survey in your BrightSpace regarding final projects by 1/16 Sunday 11:59 pm. I would like to know your opinion on the final project and will announce the final plan in the next lecture (1/18). 
-- Quiz 0 will be out Friday 1/14 8:00am. 
+- Homework 1 Out. Due Jan 28 4:59pm.
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  
