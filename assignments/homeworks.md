@@ -13,7 +13,7 @@ Late homework will not be accepted.
 
 ## Due Dates
 - [Homework 0. (PDF.)](hw0.pdf) Do not hand in.
-- [Homework 1. (PDF.)](https://drive.google.com/file/d/1R4iXIURt3Ug-yKmuoLEXNvpBVhXm1IZY/view?usp=sharing) Due: Jan. 28, 2022. 4:59pm Eastern Time.  
+- [Homework 1. (PDF.)](https://drive.google.com/file/d/1d4UNEztR2OLYk29nxQIG-JaU5h2Gky0y/view?usp=sharing) Due: Jan. 28, 2022. 4:59pm Eastern Time.  
 - Homework 2. Due: Feb. 11, 2022. 4:59pm Eastern Time.
 - Homework 3. Due: Feb. 25, 2022. 4:59pm Eastern Time.
 - Homework 4. Due: **Mar. 10, 2022 (Thu).** 4:59pm Eastern Time.
