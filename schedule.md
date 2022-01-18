@@ -30,7 +30,7 @@ Jan 10, 2022 - Apr 30, 2022
     - Reading: 
         - [Chapter 7.1.5 of SC.](https://probability4datascience.com/)
         - [Linear Regression Examples](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_03_regression.pdf).
-        - [Python Demo of Linear Regression with Outliers](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_02.html)
+        - [Python Demo of Linear Regression with Outliers](https://colab.research.google.com/drive/1h_1oTz-Qocd-09KKTmbBw4E5mSa6UaCq?usp=sharing)
 - Jan 20, 2022. Lecture 3.
     - Topics: Ridge and LASSO Regression
     - Reading: 
