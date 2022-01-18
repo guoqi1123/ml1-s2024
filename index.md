@@ -12,6 +12,8 @@ Spring 2022
 Jan 10, 2022 - Apr 30, 2022  
 
 ## Announcements
+- Final Project: Based on last week's survey, the final project will still be **individual**. Meanwhile, certain "collaborations" will be encouraged. This includes discussion among students, sharing useful online resources, and providing peer-reviews of final reports. However, it is NOT allowed to use code written by other students in the class, and everyone needs to write their own report. You need to write an acknowledge section in your final report (not counted towards 10 pages) to list all helps you receive from other students in the class. Every report will be graded using the same criteria. As for topics, you can use data from your own field, not necessarily visual data, as long as the machine learning models you study belongs to the four topics. However, you cannot reuse your projects from or for other classes. Detailed announcement [here](./assignments/project.html).
+- [When2Meet](https://www.when2meet.com/?14112800-MjdZw) poll of Varun's OH. Due Wednesday 4:59pm. 
 - [Homework 1](https://drive.google.com/file/d/1d4UNEztR2OLYk29nxQIG-JaU5h2Gky0y/view?usp=sharing) posted. Due Jan 28 4:59pm. Homework will be posted on the day of previous homework due in the future.
 
 ## Course Information
@@ -32,7 +34,7 @@ You may specify the person in your email. We will do our best to have him/her re
 
 **Office Hours:** 
 
-Prof. Qi Guo. TuTh 5:45pm-6:45pm. ME 1130.
+Prof. Qi Guo. TuTh 5:45pm-6:45pm. ME 1130.  
 Varun Aggarwal. TBD
 
 

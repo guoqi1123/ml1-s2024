@@ -7,6 +7,16 @@ nav_orders: 3
 
 # Final Project
 
+## Updates: Final Project Logistics
+
+Based on last week's survey, final project will still be **individual** project. Meanwhile, certain "collaborations" will be encouraged. This includes discussion among students, sharing useful online resources, and providing peer-reviews of final reports. However, it is NOT allowed to use code written by other students in the class, and everyone needs to write their own report. You need to write an acknowledge section in your final report (not counted towards 10 pages) to list all help you receive from other students in the class. Every report will be graded using the same criteria.
+
+The goals of the final project are to maximize everyone's learning experiences and ensure fairness. In the survey, the majority (79.5%) of the class expressed preference to do final projects on their own. Many expressed concern of fairness of allowing pair projects, which includes concern of unfair grading criteria for pairs and free-riders. Meanwhile, some proposed ideas of getting peer-feedbacks from each other. Therefore, I decide to keep the previous format of individual final project, but I will encourage students
+to interact with each other in the aforementioned ways. 
+
+There is also a popular voice in the survey to broaden topics for the project. Unfortunately, in this way we will not be able to provide useful feedbacks for you to learn and ensure fairness given the size of the class. However, you are encouraged to bring your own data to your project as long as the machine learning models you use belong to the four topics we list below. 
+
+
 ## Overview
 The course has an open-ended project, with the objective of giving you an opportunity to learn something hands-on. My expectation on your projects is high. It is not because that I want to give you a hard time, but it is because that I hope to bring you one step closer to the machine learning community. (Yes, by the machine learning community I really mean the real one. There are many gobbly goop in our times, and you know what I mean.) If your career goal is to pursue a data science, computer vision, or deep learning type of jobs, it is better to understand their expectations sooner than later.
 
