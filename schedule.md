@@ -26,7 +26,7 @@ Jan 10, 2022 - Apr 30, 2022
 
 **Week 2**
 - Jan 18, 2022. Lecture 2.
-    - Topics: Outliers in linear regression
+    - Topics: Examples of linear regression. ([Hand-written Note.](https://drive.google.com/file/d/1sh3Bq9zretpuZqramL7OIPmVfb0dKw5-/view?usp=sharing))
     - Reading: 
         - [Chapter 7.1.5 of SC.](https://probability4datascience.com/)
         - [Linear Regression Examples](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_03_regression.pdf).
