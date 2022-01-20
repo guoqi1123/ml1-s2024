@@ -37,7 +37,7 @@ Jan 10, 2022 - Apr 30, 2022
     - Reading: 
         <!-- - Chapter 7.4 of SC. -->
         - [Chapter 7.4 of SC.](https://probability4datascience.com/)
-        - [Python demo for Ridge and LASSO](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_03.html)
+        - [Python demo for Ridge and LASSO](https://colab.research.google.com/drive/1bljOM3wQJeFG_tX3u5HRDQy73KZULccW?usp=sharing)
         - Ridge Regression:
             - [Stanford CS 229 Note on Linear Algebra](http://cs229.stanford.edu/section/cs229-linalg.pdf)
             - [Lecture Note on Ridge Regression](https://arxiv.org/pdf/1509.09169.pdf)
