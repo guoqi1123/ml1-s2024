@@ -33,10 +33,11 @@ Jan 10, 2022 - Apr 30, 2022
         - [Python Demo of Linear Regression with Outliers](https://colab.research.google.com/drive/1h_1oTz-Qocd-09KKTmbBw4E5mSa6UaCq?usp=sharing)
 - Jan 20, 2022. Lecture 3.
     - Topics: Ridge and LASSO Regression
-    - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture02_regularization.pdf))
+    - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture02_regularization.pdf))
     - Reading: 
         <!-- - Chapter 7.4 of SC. -->
         - [Chapter 7.4 of SC.](https://probability4datascience.com/)
+        - [Python demo for Ridge and LASSO](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_03.html)
         - Ridge Regression:
             - [Stanford CS 229 Note on Linear Algebra](http://cs229.stanford.edu/section/cs229-linalg.pdf)
             - [Lecture Note on Ridge Regression](https://arxiv.org/pdf/1509.09169.pdf)
@@ -47,11 +48,26 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
             - [ECE / STAT 695 (Lecture 1)](https://engineering.purdue.edu/ChanGroup/ECE695.html)
             - [Statistical Learning with Sparsity (Chapter 2)](https://web.stanford.edu/~hastie/StatLearnSparsity/)
             - [Elements of Statistical Learning (Chapter 3.4)](https://web.stanford.edu/~hastie/ElemStatLearn/)
-            - [Python demo for Ridge and LASSO](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_03.html)
+        
 
 **Week 3**
 - Jan 25, 2022. Lecture 4.
     - Topics: Optimization I
+    - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture04_optima.pdf))
+    - Reading: 
+        - [Tutorial on Optimization.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_04_optima.pdf)
+        - [Python demo for CVX.](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_04.html)
+        - Unconstrained Optimality Conditions:
+            - Nocedal-Wright, Numerical Optimization. (Chapter 2.1)
+            - Boyd-Vandenberghe, Convex Optimization. (Chapter 9.1)
+        - Convexity
+            - Nocedal-Wright, Numerical Optimization. (Chapter 1)
+            - Boyd-Vandenberghe, Convex Optimization. (Chapter 2 and 3)
+            - [CMU, Convex Optimization (Lecture 2 and 4)](https://www.stat.cmu.edu/~ryantibs/convexopt-F18/)
+            - [Stanford CS 229 (Tutorial)](http://cs229.stanford.edu/section/cs229-cvxopt.pdf)
+            - [UCSD ECE 273 (Tutorial)](http://eceweb.ucsd.edu/~gert/ECE273/CvxOptTutPaper.pdf)
+        - Constrained Optimization
+            - Nocedal-Wright, Numerical Optimization. (Chapter 12.1)
 - Jan 27, 2022. Lecture 5.
     - Topics: Optimization II
 
