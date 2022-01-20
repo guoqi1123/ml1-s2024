@@ -33,9 +33,21 @@ Jan 10, 2022 - Apr 30, 2022
         - [Python Demo of Linear Regression with Outliers](https://colab.research.google.com/drive/1h_1oTz-Qocd-09KKTmbBw4E5mSa6UaCq?usp=sharing)
 - Jan 20, 2022. Lecture 3.
     - Topics: Ridge and LASSO Regression
+    - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture02_regularization.pdf))
     - Reading: 
         <!-- - Chapter 7.4 of SC. -->
-        - TBA
+        - [Chapter 7.4 of SC.](https://probability4datascience.com/)
+        - Ridge Regression:
+            - [Stanford CS 229 Note on Linear Algebra](http://cs229.stanford.edu/section/cs229-linalg.pdf)
+            - [Lecture Note on Ridge Regression](https://arxiv.org/pdf/1509.09169.pdf)
+            - Theobald, C. M. (1974). Generalizations of mean square error applied
+to ridge regression. Journal of the Royal Statistical Society. Series B
+(Methodological), 36(1), 103-106.
+        - LASSO Regression:
+            - [ECE / STAT 695 (Lecture 1)](https://engineering.purdue.edu/ChanGroup/ECE695.html)
+            - [Statistical Learning with Sparsity (Chapter 2)](https://web.stanford.edu/~hastie/StatLearnSparsity/)
+            - [Elements of Statistical Learning (Chapter 3.4)](https://web.stanford.edu/~hastie/ElemStatLearn/)
+            - [Python demo for Ridge and LASSO](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_03.html)
 
 **Week 3**
 - Jan 25, 2022. Lecture 4.
