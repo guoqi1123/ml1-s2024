@@ -37,3 +37,13 @@ Please read the following materials to familiarize yourself with basic operation
 [Numpy Basics.](https://cs231n.github.io/python-numpy-tutorial/#numpy)  
 [Matplotlib Basics.](https://cs231n.github.io/python-numpy-tutorial/#matplotlib)  
 [Scipy Basics.](https://cs231n.github.io/python-numpy-tutorial/#scipy)
+
+
+## From Other Languages to Python
+
+If you are a native MATLAB user, the following conversion table would be helpful.  
+    - [MATLAB-Python conversion (PDF)](http://mathesaurus.sourceforge.net/matlab-python-xref.pdf)  
+    - [CheatSheet (Website)](https://cheatsheets.quantecon.org/)
+
+If you are a R user, check the following resources out.  
+    - [Conversion R and Python](https://www.mit.edu/~amidi/teaching/data-science-tools/conversion-guide/r-python-data-manipulation/)
