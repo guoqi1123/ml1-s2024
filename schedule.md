@@ -32,7 +32,7 @@ Jan 10, 2022 - Apr 30, 2022
         - [Linear Regression Examples](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_03_regression.pdf).
         - [Python Demo of Linear Regression with Outliers](https://colab.research.google.com/drive/1h_1oTz-Qocd-09KKTmbBw4E5mSa6UaCq?usp=sharing)
 - Jan 20, 2022. Lecture 3.
-    - Topics: Ridge and LASSO Regression
+    - Topics: Ridge and LASSO Regression. ([Hand-written Note.](https://drive.google.com/file/d/1P_I44J92v-dsauX6UGVjvDsChvm_upAs/view?usp=sharing))
     - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture02_regularization.pdf))
     - Reading: 
         <!-- - Chapter 7.4 of SC. -->
@@ -52,7 +52,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 
 **Week 3**
 - Jan 25, 2022. Lecture 4.
-    - Topics: Optimization I
+    - Topics: Optimization I. 
     - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture04_optima.pdf))
     - Reading: 
         - [Tutorial on Optimization.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_04_optima.pdf)
