@@ -56,6 +56,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture04_optima.pdf))
     - Reading: 
         - [Tutorial on Optimization.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_04_optima.pdf)
+        - [Python demo for the class](https://colab.research.google.com/drive/1CzBvA8U308pX9gWGs_Zs4GkqqViKxkAJ?usp=sharing)
         - [Python demo for CVX.](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_04.html)
         - Unconstrained Optimality Conditions:
             - Nocedal-Wright, Numerical Optimization. (Chapter 2.1)
