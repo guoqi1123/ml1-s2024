@@ -18,7 +18,7 @@ Jan 10, 2022 - Apr 30, 2022
         - [Python for Matrices.](https://drive.google.com/file/d/1H7oBGaskGj09dAYjE3uAScMsgOM2aS2S/view) (Password is in BrightSpace.)
         - [Python for Plotting.](https://drive.google.com/file/d/1U_RlofuGRKJMLgyqjwCmpJtC63mPUQ5V/view) (Password is in BrightSpace.)
 - Jan 13, 2022. Lecture 1.
-    - Topics: Linear regression. ([Hand-written Note.](./notes/lec1.pdf))
+    - Topics: Linear regression. ([Hand-written Note.](https://drive.google.com/file/d/1ypV-jgHS50JDUbJQ3RWR2iaey1aDh641/view?usp=sharing))
     - Reading: 
         - [Linear Algebra Review.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_01_algebra.pdf)
         - [Probability Review.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_02_prob.pdf)
