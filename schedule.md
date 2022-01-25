@@ -52,7 +52,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 
 **Week 3**
 - Jan 25, 2022. Lecture 4.
-    - Topics: Optimization I. 
+    - Topics: Optimization I. ([Hand-written Note](https://drive.google.com/file/d/1lFOybHkNOMCplBM72bCGiYHSrOSOuV04/view?usp=sharing))
     - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture04_optima.pdf))
     - Reading: 
         - [Tutorial on Optimization.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_04_optima.pdf)
