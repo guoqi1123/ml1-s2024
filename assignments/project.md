@@ -37,7 +37,7 @@ Your report (aka paper) should have the following sections.
 
 **Conclusion.** People are sometimes confused about the conclusion section. In my opinion, conclusion is not the same as summary. Yes, you need to summarize the paper in this section. But more importantly, you want to explain the limitations of your findings. You also need to suggest future directions of your work. Sometimes, you may have found some unexpected outcomes. Then in the conclusion you may want to comment on them.
 
-Every paper is unique, and so you need to make the best judgement of what to include and what not to include in the paper. The above outline is recommended, but not mandatory. However, based on my 15+ years experience in reviewing papers, serving as program chairs and journal editors, the recommended outline is quite robust. So if it is your first time writing, please consider it.
+Every paper is unique, and so you need to make the best judgement of what to include and what not to include in the paper. The above outline is recommended, but not mandatory. However, based on my past experience in reviewing papers, serving as program chairs and journal editors, the recommended outline is quite robust. So if it is your first time writing, please consider it.
 
 ## Deadlines
 The project will be graded in a two-phase process.
