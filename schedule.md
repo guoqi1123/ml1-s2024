@@ -71,18 +71,56 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
             - Nocedal-Wright, Numerical Optimization. (Chapter 12.1)
 - Jan 27, 2022. Lecture 5.
     - Topics: Optimization II
+    - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture05_descent.pdf))
+    - Reading:
+        - [Tutorial on Optimization.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_04_optima.pdf)
+        - [Python demo for gradient descent](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_05.html)
+        - Gradient Descent
+            - Boyd-Vandenberghe, Convex Optimization. (Chapter 9.2-9.4)
+            - Nocedal-Wright, Numerical Optimization. (Chapter 3.1-3.3)
+            - Y. Nesterov, “Introductory lectures on convex optimization”, Chapter 2.
+        - Stochastic Gradient Descent
+            - [CMU 10.725 Lecture](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/stochastic-gd.pdf)
+            - [Kleinberg et al. (2018) “When Does SGD Escape Local Minima”](https://arxiv.org/pdf/1802.06175.pdf)
 
 **Week 4**
 - Feb 1, 2022. Lecture 6.
     - Topics: Linear Separability
+    - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture06_separable.pdf))
+    - Reading: 
+        - [Python demo for constrained optimization](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_06.html)
+        - Separating Hyperplane:
+            - Duda, Hart and Stork’s Pattern Classification, Chapter 5.1 and 5.2.
+            - [Princeton ORFE-523, Lecture 5 on Separating hyperplane.](http://www.princeton.edu/~amirali/Public/Teaching/ORF523/S16/ORF523_S16_Lec5_gh.pdf)
+            - [Cornell ORIE-6300, Lecture 6 on Separating hyperplane](https://people.orie.cornell.edu/dpw/orie6300/fall2008/Lectures/lec06.pdf)
+            - [Caltech, Lecture Note](http://www.its.caltech.edu/~kcborder/Notes/SeparatingHyperplane.pdf)
 - Feb 3, 2022. Lecture 7.
     - Topics: Bayesian Classifier I
+    - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture09_bayesian.pdf))
+    - Reading:
+        - [Python demo fro Bayesian decision rule](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_07.html)
+        - High Dimensional Gaussian
+            - Bishop, Pattern Recognition and Machine Learning, Chapter 2.3
+            - [Stanford CS 229 Tutorial on Gaussian](http://cs229.stanford.edu/section/gaussians.pdf)
+        - Bayesian Decision Rule
+            - Bishop, Pattern Recognition and Machine Learning, Chapter 4.1
+            - Duda, Hart and Stork’s Pattern Classification, Chapter 2.1, 2.2, 2.6
+            - [UCSD ECE 271A, Lecture 4 and 5](http://www.svcl.ucsd.edu/courses/ece271A/ece271A.htm)
 
 **Week 5**
 - Feb 8, 2022. Lecture 8.
     - Topics: Bayesian Classifier II
+    - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture09_bayesian.pdf))
+    - Reading: Same as last lecture.
 - Feb 10, 2022. Lecture 9.
     - Topics: Classification Error and ROC curves
+    - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture10_evaluation.pdf))
+    - Reading: 
+        - Probability of Error:
+            - Duda, Hart and Stork’s Pattern Classification, Chapter 2.7, 3.1.
+            - Poor, Intro to Signal Estimation and Detection, Chapter 2.
+        - ROC Curve
+            - [ECE645 Note.](https://engineering.purdue.edu/ChanGroup/ECE645Notes/StudentLecture02.pdf)
 
 **Week 6**
 - Feb 15, 2022. Lecture 10.
