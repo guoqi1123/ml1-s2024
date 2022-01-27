@@ -12,9 +12,7 @@ Spring 2022
 Jan 10, 2022 - Apr 30, 2022  
 
 ## Announcements
-- Varun's OH announced.
-- Resources that help you switch from Matlab and R to Python [posted.](./resources/python.html)
-- [Homework 1](https://drive.google.com/file/d/1d4UNEztR2OLYk29nxQIG-JaU5h2Gky0y/view?usp=sharing) posted. Due Jan 28 4:59pm. Homework will be posted on the day of previous homework due in the future.
+- Homework 2 posted. Due Feb 11 4:59pm. Checkout Homework page.
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  
