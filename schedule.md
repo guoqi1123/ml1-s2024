@@ -70,7 +70,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
         - Constrained Optimization
             - Nocedal-Wright, Numerical Optimization. (Chapter 12.1)
 - Jan 27, 2022. Lecture 5.
-    - Topics: Optimization II
+    - Topics: Optimization II. ([Hand-written Note](https://drive.google.com/file/d/1T4TOyef8F35H2cOJHZKQqpbMBi1th7IX/view?usp=sharing))
     - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture05_descent.pdf))
     - Reading:
         - [Tutorial on Optimization.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_04_optima.pdf)
