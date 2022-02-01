@@ -85,7 +85,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 
 **Week 4**
 - Feb 1, 2022. Lecture 6.
-    - Topics: Linear Separability
+    - Topics: Linear Separability. ([Hand-written Note](https://drive.google.com/file/d/1bFSgkwZEJ2b8LygnWByJfrsDEgVowsLv/view?usp=sharing))
     - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture06_separable.pdf))
     - Reading: 
         - [Python demo for constrained optimization](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_06.html)
