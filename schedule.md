@@ -98,7 +98,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 
 **Week 5**
 - Feb 8, 2022. Lecture 8.
-    - Topics: Bayesian Classifier 
+    - Topics: Bayesian Classifier
     - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture09_bayesian.pdf))
     - Reading:
         - [Python demo fro Bayesian decision rule](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_07.html)
