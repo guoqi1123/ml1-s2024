@@ -94,8 +94,11 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
             - [Princeton ORFE-523, Lecture 5 on Separating hyperplane.](http://www.princeton.edu/~amirali/Public/Teaching/ORF523/S16/ORF523_S16_Lec5_gh.pdf)
             - [Cornell ORIE-6300, Lecture 6 on Separating hyperplane](https://people.orie.cornell.edu/dpw/orie6300/fall2008/Lectures/lec06.pdf)
             - [Caltech, Lecture Note](http://www.its.caltech.edu/~kcborder/Notes/SeparatingHyperplane.pdf)
-- Feb 3, 2022. Lecture 7.
-    - Topics: Bayesian Classifier I
+- Feb 3, 2022. Snow Day.
+
+**Week 5**
+- Feb 8, 2022. Lecture 8.
+    - Topics: Bayesian Classifier 
     - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture09_bayesian.pdf))
     - Reading:
         - [Python demo fro Bayesian decision rule](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_07.html)
@@ -106,11 +109,6 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
             - Bishop, Pattern Recognition and Machine Learning, Chapter 4.1
             - Duda, Hart and Stork’s Pattern Classification, Chapter 2.1, 2.2, 2.6
             - [UCSD ECE 271A, Lecture 4 and 5](http://www.svcl.ucsd.edu/courses/ece271A/ece271A.htm)
-
-**Week 5**
-- Feb 8, 2022. Lecture 8.
-    - Topics: Bayesian Classifier II
-    - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture09_bayesian.pdf))
     - Reading: Same as last lecture.
 - Feb 10, 2022. Lecture 9.
     - Topics: Classification Error and ROC curves

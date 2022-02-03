@@ -12,6 +12,7 @@ Spring 2022
 Jan 10, 2022 - Apr 30, 2022  
 
 ## Announcements
+- Lecture on Thursday (2/3) cancelled due to adverse weather.
 - Homework 2 posted. Due Feb 11 4:59pm. Checkout Homework page.
 
 ## Course Information
