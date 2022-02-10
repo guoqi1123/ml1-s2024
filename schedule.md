@@ -101,7 +101,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Topics: Bayesian Classifier ([Hand-written note](https://drive.google.com/file/d/1ELeElcSHvMFUdvqmaNBOSAKgxeG_hoMW/view?usp=sharing))
     - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture09_bayesian.pdf))
     - Reading:
-        - [Python demo fro Bayesian decision rule](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_07.html)
+        - [Python demo for Bayesian decision rule](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_07.html)
         - High Dimensional Gaussian
             - Bishop, Pattern Recognition and Machine Learning, Chapter 2.3
             - [Stanford CS 229 Tutorial on Gaussian](http://cs229.stanford.edu/section/gaussians.pdf)
@@ -114,6 +114,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Topics: Classification Error and ROC curves
     - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture10_evaluation.pdf))
     - Reading: 
+        - [Python Demo of Bayesian Decision Rule with Gaussian Model](https://colab.research.google.com/drive/1DSN0z1GNAyok8_gC1YbyzmU_xN5Vho7J?usp=sharing)
         - Probability of Error:
             - Duda, Hart and Stork’s Pattern Classification, Chapter 2.7, 3.1.
             - Poor, Intro to Signal Estimation and Detection, Chapter 2.
