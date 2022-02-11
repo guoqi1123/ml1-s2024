@@ -111,7 +111,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
             - [UCSD ECE 271A, Lecture 4 and 5](http://www.svcl.ucsd.edu/courses/ece271A/ece271A.htm)
     - Reading: Same as last lecture.
 - Feb 10, 2022. Lecture 9.
-    - Topics: Classification Error and ROC curves
+    - Topics: Classification Error and ROC curves ([Hand-written Note](https://drive.google.com/file/d/1hxf64-KEE2tN5tsbXO4A7Ga5kAMqHQO2/view?usp=sharing))
     - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture10_evaluation.pdf))
     - Reading: 
         - [Python Demo of Bayesian Decision Rule with Gaussian Model](https://colab.research.google.com/drive/1DSN0z1GNAyok8_gC1YbyzmU_xN5Vho7J?usp=sharing)
