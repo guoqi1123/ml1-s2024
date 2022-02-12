@@ -12,8 +12,8 @@ Spring 2022
 Jan 10, 2022 - Apr 30, 2022  
 
 ## Announcements
-- Lecture on Thursday (2/3) cancelled due to adverse weather.
-- Homework 2 posted. Due Feb 11 4:59pm. Checkout Homework page.
+- Quiz 2 out on GradeScope. Due Sunday, Feb 13, 8:00am ET.
+- [Homework 3](https://drive.google.com/drive/u/1/folders/13HCdS6v6q1CtMq8AtPS0V_-vdrcGZMHb) out. [Data](https://drive.google.com/file/d/1i0TYgpv3nFnB9MV6jpfpPZEbcSLCJbrX/view?usp=sharing) here. Due Feb 25 4:59pm ET. 
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  
