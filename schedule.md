@@ -123,9 +123,16 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 
 **Week 6**
 - Feb 15, 2022. Lecture 10.
-    - Topics: Parameter Estimation
+    - Topics: Parameter Estimation I
+    - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture11_mle.pdf))
+    - Reading:
+        - Duda, Hart and Stork’s Pattern Classification, Chapter 3.2
+        - [Iowa State EE 527](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture11_mle.pdf)
+        - [Purdue ECE 645, Lecture 18-20](https://engineering.purdue.edu/ChanGroup/ECE645.html)
+        - [UCSD ECE 271A, Lecture 6](http://www.svcl.ucsd.edu/courses/ece271A/ece271A.htm)
+        - [Univ. Orleans](https://www.univ-orleans.fr/deg/masters/ESA/CH/Chapter2_MLE.pdf) 
 - Feb 17, 2022. Lecture 11.
-    - Topics: Logistic Regression I
+    - Topics: Parameter Estimation II / Logistic Regression I
 
 **Week 7**
 - Feb 22, 2022. Lecture 12.

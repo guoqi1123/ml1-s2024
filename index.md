@@ -12,7 +12,6 @@ Spring 2022
 Jan 10, 2022 - Apr 30, 2022  
 
 ## Announcements
-- Quiz 2 out on GradeScope. Due Sunday, Feb 13, 8:00am ET.
 - [Homework 3](https://drive.google.com/file/d/1uOxqU-nXZsv9T1e4w-zEh1j4N-S6PX86/view?usp=sharing) out. [Data](https://drive.google.com/file/d/1i0TYgpv3nFnB9MV6jpfpPZEbcSLCJbrX/view?usp=sharing) here. Due Feb 25 4:59pm ET. 
 
 ## Course Information
