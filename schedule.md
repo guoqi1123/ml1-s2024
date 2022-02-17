@@ -123,7 +123,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 
 **Week 6**
 - Feb 15, 2022. Lecture 10.
-    - Topics: Parameter Estimation I
+    - Topics: Parameter Estimation I. ([Hand-written Note](https://drive.google.com/file/d/1xaI_OnLnf68ZQHfTIZ0db8XxIS9ZvIdy/view?usp=sharing))
     - Slides from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture11_mle.pdf))
     - Reading:
         - Duda, Hart and Stork’s Pattern Classification, Chapter 3.2
