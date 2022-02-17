@@ -133,6 +133,24 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
         - [Univ. Orleans](https://www.univ-orleans.fr/deg/masters/ESA/CH/Chapter2_MLE.pdf) 
 - Feb 17, 2022. Lecture 11.
     - Topics: Parameter Estimation II / Logistic Regression I
+    - Slide from last year.
+        - Bayesian Prior ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture12_prior.pdf))
+        - Logistic Regression. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture14_logistic.pdf))
+    - Reading:
+        - Bayesian Parameter Estimation
+            - Duda, Hart and Stork’s Pattern Classification, Chapter 3.3-3.5
+            - Bishop, Pattern Recognition and Machine Learning, Chapter 2.4
+            - [M. Jordan (Berkeley)](https://people.eecs.berkeley.edu/~jordan/courses/260-spring10/other-readings/chapter9.pdf)
+            - [CMU Note](http://www.cs.cmu.edu/~aarti/Class/10701_Spring14/slides/MLE_MAP_Part1.pdf)
+            - [A. Kak (Purdue)](https://engineering.purdue.edu/kak/Tutorials/Trinity.pdf) 
+        - Logistic Regression (Machine Learning Perspective)
+            - Bishop, Pattern Recognition and Machine Learning, Chapter 4.3
+            - Hastie-Tibshirani-Friedman’s Elements of Statistical Learning, Chapter 4.4 
+            - [CMU Lecture](stat.cmu.edu/~cshalizi/uADA/12/lectures/ch12.pdf)
+            - [Stanford Language Processing](https://web.stanford.edu/~jurafsky/slp3/)
+        - Logistic Regression 
+            - [Duke Lecture](https://www2.stat.duke.edu/courses/Spring13/sta102.001/Lec/Lec20.pdf)
+            - [Princeton Lecture](https://data.princeton.edu/wws509/notes/c3.pdf)
 
 **Week 7**
 - Feb 22, 2022. Lecture 12.
