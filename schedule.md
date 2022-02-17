@@ -137,6 +137,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
         - Bayesian Prior ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture12_prior.pdf))
         - Logistic Regression. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture14_logistic.pdf))
     - Reading:
+        - [Python Demo for Maximum-a-Posteriori](https://colab.research.google.com/drive/187eDDEAe_jJfvS3TPUc6xhpFw2Yect2T#scrollTo=-QqKLbJL8B0V)
         - Bayesian Parameter Estimation
             - Duda, Hart and Stork’s Pattern Classification, Chapter 3.3-3.5
             - Bishop, Pattern Recognition and Machine Learning, Chapter 2.4
