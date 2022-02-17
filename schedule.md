@@ -132,7 +132,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
         - [UCSD ECE 271A, Lecture 6](http://www.svcl.ucsd.edu/courses/ece271A/ece271A.htm)
         - [Univ. Orleans](https://www.univ-orleans.fr/deg/masters/ESA/CH/Chapter2_MLE.pdf) 
 - Feb 17, 2022. Lecture 11.
-    - Topics: Parameter Estimation II / Logistic Regression I
+    - Topics: Parameter Estimation II / Logistic Regression I. ([Hand-written Note](https://drive.google.com/file/d/1stL-uoaXMTe3-FHiv-ZnlRXZJ9fWPdsa/view?usp=sharing))
     - Slide from last year.
         - Bayesian Prior ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture12_prior.pdf))
         - Logistic Regression. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture14_logistic.pdf))
