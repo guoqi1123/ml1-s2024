@@ -156,6 +156,10 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 **Week 7**
 - Feb 22, 2022. Lecture 12.
     - Topics: Logistic Regression II
+    - Slide from last year. [PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture15_logistic2.pdf)
+    - Reading:
+        - [Python Demo for Logistic Regression](https://colab.research.google.com/drive/1OFKZAFdPQPWsJoRL44eBHA7q4_lO0Wha?usp=sharing)
+        - Logistic Regression-related reading of the previous lecture
 - Feb 24, 2022. Lecture 13.
     - Topics: Kernel Trick
 
