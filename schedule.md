@@ -164,6 +164,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Topics: Kernel Trick
     - Slide from last year. [PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture03_kernel.pdf)
     - Reading list:
+        - [Python Demo](https://colab.research.google.com/drive/1MLeV_6qLEID8SeM5r8DGl1PZ1jZYon2W?usp=sharing)
         - Kernel Method:
             - [Learning from Data (Chapter 3.4)](https://work.caltech.edu/telecourse)
             - [CMU 10701 Lecture 4](https://www.cs.cmu.edu/~tom/10701_sp11/slides/Kernels_SVM_04_7_2011-ann.pdf)
