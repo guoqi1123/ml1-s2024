@@ -162,6 +162,18 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
         - Logistic Regression-related reading of the previous lecture
 - Feb 24, 2022. Lecture 13.
     - Topics: Kernel Trick
+    - Slide from last year. [PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture03_kernel.pdf)
+    - Reading list:
+        - Kernel Method:
+            - [Learning from Data (Chapter 3.4)](https://work.caltech.edu/telecourse)
+            - [CMU 10701 Lecture 4](https://www.cs.cmu.edu/~tom/10701_sp11/slides/Kernels_SVM_04_7_2011-ann.pdf)
+            - [Berkeley CS 194 Lecture 7](https://people.eecs.berkeley.edu/~russell/classes/cs194/)
+            - [Oxford C19 Lecture 3](http://www.robots.ox.ac.uk/~az/lectures/ml/lect3.pdf)
+        - Kernel Regression in Computer Vision:
+            - [Bilateral Filter](https://people.csail.mit.edu/sparis/bf_course/course_notes.pdf)
+            - [Takeda and Milanfar, “Kernel regression for image processing and
+reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.org/document/4060955)
+
 
 **Week 8**
 - Mar 1, 2022. Lecture 14.
