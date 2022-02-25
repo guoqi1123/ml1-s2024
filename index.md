@@ -14,6 +14,7 @@ Jan 10, 2022 - Apr 30, 2022
 ## Announcements
 - Quiz 3 will be out Feb 25 (Fri) 5:00pm ET to Feb 27 (Sun) 8:00am ET. From this quiz, each time there will be 1-2 bonus questions worth 2-3 bonus points. The length of the quiz will be extended to **1 hr**.
 - [Homework 3](https://drive.google.com/file/d/1uOxqU-nXZsv9T1e4w-zEh1j4N-S6PX86/view?usp=sharing) out. [Data](https://drive.google.com/file/d/1i0TYgpv3nFnB9MV6jpfpPZEbcSLCJbrX/view?usp=sharing) here. Due Feb 25 4:59pm ET. 
+- [Homework 4](https://drive.google.com/file/d/1uK9_G8GfKm6WIglNdJhWDAXiWKgzLv8Q/view?usp=sharing) out. [Data](https://drive.google.com/file/d/1VWomMLERf6vaETodmwAGGBZmyGahQms7/view?usp=sharing) here. Due Mar 10 (**Thurs**) 4:59pm ET. 
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  

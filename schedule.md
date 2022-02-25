@@ -161,7 +161,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
         - [Python Demo for Logistic Regression](https://colab.research.google.com/drive/1OFKZAFdPQPWsJoRL44eBHA7q4_lO0Wha?usp=sharing)
         - Logistic Regression-related reading of the previous lecture
 - Feb 24, 2022. Lecture 13.
-    - Topics: Kernel Trick
+    - Topics: Kernel Trick [Hand-written Note](https://drive.google.com/file/d/1ErLXQQTNB1XRbSCydtT19QK4a9UdRVCc/view?usp=sharing)
     - Slide from last year. [PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture03_kernel.pdf)
     - Reading list:
         - [Python Demo](https://colab.research.google.com/drive/1MLeV_6qLEID8SeM5r8DGl1PZ1jZYon2W?usp=sharing)
