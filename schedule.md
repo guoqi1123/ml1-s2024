@@ -182,6 +182,12 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
     - Reading:
         - [TensorFlow Playground](https://playground.tensorflow.org/)
         - [Python demo for Convolutional Neural Networks](https://colab.research.google.com/drive/1C8tLA5__49o-_3vFk3paxPMfHOgYUctG?usp=sharing)
+        - [Michael Nielsen, Neural Networks and Deep Learning](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture18_MLP.pdf)
+        - Duda, Hart, Stork, Pattern Classification, Chapter 5
+        - Bishop, Pattern Recognition and Machine Learning, Chapter 5
+        - [Stanford CS 231N](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture4.pdf)
+        - [CMU Machine Learning Course](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture20-backprop.pdf)
+        - [Cornell CS 5740](https://www.cs.cornell.edu/courses/cs5740/2016sp/resources/backprop.pdf)
 - Mar 3, 2022. Lecture 15.
     - Topics: Convolutional Structures and Back Propagation
 
