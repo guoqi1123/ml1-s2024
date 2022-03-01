@@ -178,51 +178,57 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
 
 **Week 8**
 - Mar 1, 2022. Lecture 14.
-    - Topics: Kernel Trick
+    - Topics: Intro to Neural Networks
+    - Reading:
+        - [TensorFlow Playground](https://playground.tensorflow.org/)
+        - [Python demo for Convolutional Neural Networks](https://colab.research.google.com/drive/1C8tLA5__49o-_3vFk3paxPMfHOgYUctG?usp=sharing)
 - Mar 3, 2022. Lecture 15.
-    - Topics: Probability Inequality
+    - Topics: Convolutional Structures and Back Propagation
 
 **Week 9**
 - Mar 8, 2022. Lecture 16.
-    - Topics: Is Learning Feasible?
+    - Topics: Generative Adversarial Networks
 - Mar 10, 2022. Lecture 17.
-    - Topics: Probably-Approximately Correct
+    - Topics: Recurrent Networks and Transformers
 
 **Week 10**  
 - Spring Vacation
 
 **Week 11**
 - Mar 22, 2022. Lecture 18.
-    - Topics: Generalization Bound
-- Mar 24, 2022. Lecture 19.
-    - Topics: Growth Function
+    - Topics: Adversarial Attacks
+- Mar 24, 2022, Lecture 19
+    - Topics: Probability Inequality
 
 **Week 12**
 - Mar 29, 2022. Lecture 20.
-    - Topics: Growth Function Example
+    - Topics: Is Learning Feasible?
 - Mar 31, 2022. Lecture 21.
-    - Topics: VC Dimension
+    - Topics: Probably-Approximately Correct
+
+**Week 10**  
+- Spring Vacation
 
 **Week 13**
 - Apr 5, 2022. Lecture 22.
-    - Topics: Bias and Variance
+    - Topics: Generalization Bound
 - Apr 7, 2022. Lecture 23.
-    - Topics: Overfitting
+    - Topics: Growth Function
 
-**Week 14**
+**Week 12**
 - Apr 12, 2022. Lecture 24.
-    - Topics: Intro to Neural Networks
+    - Topics: Growth Function Example
 - Apr 14, 2022. Lecture 25.
-    - Topics: Convolutional Structures and Back Propagation
+    - Topics: VC Dimension
 
-**Week 15**
+**Week 13**
 - Apr 19, 2022. Lecture 26.
-    - Topics: Recurrent Networks and Transformers
+    - Topics: Bias and Variance
 - Apr 21, 2022. Lecture 27.
-    - Topics: Generative Adversarial Networks
+    - Topics: Overfitting
 
 **Week 16**
 - Apr 26, 2022. Lecture 28.
-    - Topics: Adversarial Attacks
+    - Topics: TBD
 - Apr 28, 2022. Lecture 29.
     - Topics: Conclusions
