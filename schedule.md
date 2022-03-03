@@ -178,7 +178,7 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
 
 **Week 8**
 - Mar 1, 2022. Lecture 14.
-    - Topics: Intro to Neural Networks
+    - Topics: Intro to Neural Networks ([Hand-written Note](https://drive.google.com/file/d/11AXttd19-6p07dap2lVVF8tiqvH9orUA/view?usp=sharing))
     - Reading:
         - [TensorFlow Playground](https://playground.tensorflow.org/)
         - [Python demo for Convolutional Neural Networks](https://colab.research.google.com/drive/1C8tLA5__49o-_3vFk3paxPMfHOgYUctG?usp=sharing)
