@@ -35,7 +35,7 @@ There will be six quizzes, and the worst one will be dropped. Each quiz is 30 mi
 - Coverage: Homework 3, and materials I posted before today's lecture and after the last quiz.
 
 **Quiz 4 (8%).**
-- Time: **Mar 10 (Thu) 5pm ET to Mar 12 (Sat) 8am ET.**
+- Time: Mar 10 (Thu) 5pm ET to Mar 13 (Sat) 8am ET.
 - Length of quiz: 30 minutes.
 - Access through gradescope.
 - Coverage: Homework 4, and materials I posted before today's lecture and after the last quiz.
