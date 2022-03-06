@@ -16,7 +16,7 @@ Late homework will not be accepted.
 - [Homework 1. (PDF.)](https://drive.google.com/file/d/1d4UNEztR2OLYk29nxQIG-JaU5h2Gky0y/view?usp=sharing) Due: Jan. 28, 2022. 4:59pm Eastern Time. [Supplementary Info (Optional.)](https://drive.google.com/file/d/1EJEgRKbhpysAtCiE8TN3yFrzIlwwetQZ/view?usp=sharing)
 - [Homework 2. (PDF.)](https://drive.google.com/file/d/1_x_rdxzT6hkyLuQ7WtkZPrDzAc21VhCP/view?usp=sharing) Due: Feb. 11, 2022. 4:59pm Eastern Time. [Data](https://drive.google.com/file/d/1i99mYS2Q1dZqB2sLSXcb2oisWQNw7Bjc/view?usp=sharing)
 - [Homework 3. (PDF.)](https://drive.google.com/file/d/1uOxqU-nXZsv9T1e4w-zEh1j4N-S6PX86/view?usp=sharing) Due: Feb. 25, 2022. 4:59pm Eastern Time. [Data](https://drive.google.com/file/d/1i0TYgpv3nFnB9MV6jpfpPZEbcSLCJbrX/view?usp=sharing)
-- [Homework 4. (PDF.)](https://drive.google.com/file/d/1uK9_G8GfKm6WIglNdJhWDAXiWKgzLv8Q/view?usp=sharing) Due: **Mar. 10, 2022 (Thu).** 4:59pm Eastern Time. [Data](https://drive.google.com/file/d/1VWomMLERf6vaETodmwAGGBZmyGahQms7/view?usp=sharing)
+- [Homework 4. (PDF.)](https://drive.google.com/file/d/1uK9_G8GfKm6WIglNdJhWDAXiWKgzLv8Q/view?usp=sharing) Due: Mar. 11, 2022. 4:59pm Eastern Time. [Data](https://drive.google.com/file/d/1VWomMLERf6vaETodmwAGGBZmyGahQms7/view?usp=sharing)
 - Homework 5. Due: Apr. 2, 2022, 4:59pm Eastern Time.
 - Homework 6. Due: Apr. 15, 2022, 4:59pm Eastern Time.
 
