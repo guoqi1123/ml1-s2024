@@ -198,6 +198,7 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
     - Topics: Convolutional Structures II
     - Reading:
         - [Python Demo of CNN on MNIST](https://colab.research.google.com/drive/1C8tLA5__49o-_3vFk3paxPMfHOgYUctG#scrollTo=nX-RPyGw9F6J)
+        - [Checkerboard Effect of Transpose Convolution](https://distill.pub/2016/deconv-checkerboard/)
 - Mar 10, 2022. Lecture 17.
     - Topics: Recurrent Networks and Transformers
 
