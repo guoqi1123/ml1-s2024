@@ -189,7 +189,9 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
         - [CMU Machine Learning Course](https://www.cs.cmu.edu/~mgormley/courses/10601-s17/slides/lecture20-backprop.pdf)
         - [Cornell CS 5740](https://www.cs.cornell.edu/courses/cs5740/2016sp/resources/backprop.pdf)
 - Mar 3, 2022. Lecture 15.
-    - Topics: Convolutional Structures and Back Propagation
+    - Topics: Convolutional Structures and Back Propagation ([Hand-written Note](https://drive.google.com/file/d/1lJrswo29ntDWZIVAh3gzAa2JirLV00kb/view?usp=sharing))
+    - Reading:
+        - [CMU Deep Learning Course](https://deeplearning.cs.cmu.edu/F21/document/slides/Lec9.CNN1.pdf)
 
 **Week 9**
 - Mar 8, 2022. Lecture 16.
