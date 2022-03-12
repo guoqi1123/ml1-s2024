@@ -12,9 +12,8 @@ Spring 2022
 Jan 10, 2022 - Apr 30, 2022  
 
 ## Announcements
-- Homework 4 deadline extended to Mar 11 (Fri) 4:59pm ET.
+- Homework 5 out. Check BrightSpace for link.
 - Quiz 4 will be out Mar 10 (Thur) 5:00pm ET to Mar 13 (Sun) 8:00am ET. For this quiz, there will be 1-2 bonus questions worth 2-3 bonus points. The length of the quiz is **1 hr**.
-- [Homework 4](https://drive.google.com/file/d/1uK9_G8GfKm6WIglNdJhWDAXiWKgzLv8Q/view?usp=sharing) out. [Data](https://drive.google.com/file/d/1VWomMLERf6vaETodmwAGGBZmyGahQms7/view?usp=sharing) here. Due Mar 11 (**Fri**) 4:59pm ET. 
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  

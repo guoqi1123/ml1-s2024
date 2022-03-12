@@ -195,51 +195,53 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
 
 **Week 9**
 - Mar 8, 2022. Lecture 16.
-    - Topics: Convolutional Structures II
+    - Topics: Convolutional Structures II ([Hand-written Note](https://drive.google.com/file/d/1jsL419IIu9PVX_MD_jyVSxM_qZlVjiqo/view?usp=sharing))
     - Reading:
         - [Python Demo of CNN on MNIST](https://colab.research.google.com/drive/1C8tLA5__49o-_3vFk3paxPMfHOgYUctG#scrollTo=nX-RPyGw9F6J)
         - [Checkerboard Effect of Transpose Convolution](https://distill.pub/2016/deconv-checkerboard/)
 - Mar 10, 2022. Lecture 17.
-    - Topics: Recurrent Networks and Transformers
+    - Topics: Recurrent Networks and Transformers 
+    - Reading:
+        - [CMU Deep Learning Course](https://deeplearning.cs.cmu.edu/F21/document/slides/lec14.recurrent.pdf)
+        - [Stanford CS 231N](http://cs231n.stanford.edu/slides/2017/cs231n_2017_lecture10.pdf)
+
 
 **Week 10**  
 - Spring Vacation
 
 **Week 11**
 - Mar 22, 2022. Lecture 18.
-    - Topics: Adversarial Attacks
+    - Topics: Attention and Transformers
 - Mar 24, 2022, Lecture 19
-    - Topics: Probability Inequality
+    - Topics: Adversarial Attacks
 
 **Week 12**
 - Mar 29, 2022. Lecture 20.
-    - Topics: Is Learning Feasible?
+    - Topics: Probability Inequality
 - Mar 31, 2022. Lecture 21.
-    - Topics: Probably-Approximately Correct
+    - Topics: Is Learning Feasible?
 
-**Week 10**  
-- Spring Vacation
 
 **Week 13**
 - Apr 5, 2022. Lecture 22.
-    - Topics: Generalization Bound
+    - Topics: Probably-Approximately Correct
 - Apr 7, 2022. Lecture 23.
-    - Topics: Growth Function
+    - Topics: Generalization Bound
 
-**Week 12**
+**Week 14**
 - Apr 12, 2022. Lecture 24.
-    - Topics: Growth Function Example
+    - Topics: Growth Function
 - Apr 14, 2022. Lecture 25.
-    - Topics: VC Dimension
+    - Topics: Growth Function Example
 
-**Week 13**
+**Week 15**
 - Apr 19, 2022. Lecture 26.
-    - Topics: Bias and Variance
+    - Topics: VC Dimension
 - Apr 21, 2022. Lecture 27.
-    - Topics: Overfitting
+    - Topics: Bias and Variance
 
 **Week 16**
 - Apr 26, 2022. Lecture 28.
-    - Topics: TBD
+    - Topics: Overfitting
 - Apr 28, 2022. Lecture 29.
     - Topics: Conclusions
