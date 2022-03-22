@@ -212,6 +212,11 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
 **Week 11**
 - Mar 22, 2022. Lecture 18.
     - Topics: Attention and Transformers
+    - Reading:
+        - [Python demo of self-attention](https://colab.research.google.com/drive/1oBEYtO82l_3CBBnAPhTtXwGx17BO-THW?usp=sharing)
+        - [CMU Deep Learning Course - Attention](https://deeplearning.cs.cmu.edu/F21/document/slides/lec18.attention.noanim.pdf)
+        - [CMU Deep Learning Course - Transformer](https://deeplearning.cs.cmu.edu/F21/document/slides/lec19.TransformersGNN.pdf)
+        - [Yannic Video - Attention is All You Need](https://youtu.be/iDulhoQ2pro)
 - Mar 24, 2022, Lecture 19
     - Topics: Adversarial Attacks
 
