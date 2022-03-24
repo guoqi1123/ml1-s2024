@@ -220,6 +220,9 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
 - Mar 24, 2022, Lecture 19
     - Topics: Adversarial Attacks
     - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture33_attack_overview.pdf))
+    - Reading:
+        - [Min-distance Attacks](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture34_min.pdf)
+        - [Max Loss Attacks and Regularization Attacks](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture35_max.pdf)
 
 **Week 12**
 - Mar 29, 2022. Lecture 20.
