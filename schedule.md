@@ -219,6 +219,7 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
         - [Yannic Video - Attention is All You Need](https://youtu.be/iDulhoQ2pro)
 - Mar 24, 2022, Lecture 19
     - Topics: Adversarial Attacks
+    - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture33_attack_overview.pdf))
 
 **Week 12**
 - Mar 29, 2022. Lecture 20.
