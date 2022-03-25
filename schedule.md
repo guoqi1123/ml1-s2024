@@ -218,7 +218,7 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
         - [CMU Deep Learning Course - Transformer](https://deeplearning.cs.cmu.edu/F21/document/slides/lec19.TransformersGNN.pdf)
         - [Yannic Video - Attention is All You Need](https://youtu.be/iDulhoQ2pro)
 - Mar 24, 2022, Lecture 19
-    - Topics: Adversarial Attacks
+    - Topics: Adversarial Attacks ([Hand-written Note](https://drive.google.com/file/d/1WDYi6T3urkV_YdYyuppuKlmxXluiEcxC/view?usp=sharing))
     - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture33_attack_overview.pdf))
     - Reading:
         - [Min-distance Attacks](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture34_min.pdf)
