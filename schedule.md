@@ -227,6 +227,13 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
 **Week 12**
 - Mar 29, 2022. Lecture 20.
     - Topics: Probability Inequality
+    - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture23_inequality.pdf))
+    - Reading:
+        - Abu-Mustafa, Learning from Data, Chapter 2.
+        - Martin Wainwright, High Dimensional Statistics, Cambridge University Press 2019. (Chapter 2)
+        - [Cornell Note](https://www.cs.cornell.edu/~sridharan/concentration.pdf)
+        - [CMU Note](http://www.stat.cmu.edu/~larry/=sml/Concentration.pdf)
+        - [Stanford Note](http://cs229.stanford.edu/extra-notes/hoeffding.pdf)
 - Mar 31, 2022. Lecture 21.
     - Topics: Is Learning Feasible?
 
