@@ -226,7 +226,7 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
 
 **Week 12**
 - Mar 29, 2022. Lecture 20.
-    - Topics: Probability Inequality
+    - Topics: Probability Inequality ([Hand-written Note](https://drive.google.com/file/d/1V5WteN0VHe7cX7rhT6CDLir6tlOpkfcI/view?usp=sharing))
     - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture23_inequality.pdf))
     - Reading:
         - Abu-Mustafa, Learning from Data, Chapter 2.
