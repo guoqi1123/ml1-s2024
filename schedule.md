@@ -229,6 +229,7 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
     - Topics: Probability Inequality ([Hand-written Note](https://drive.google.com/file/d/1V5WteN0VHe7cX7rhT6CDLir6tlOpkfcI/view?usp=sharing))
     - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture23_inequality.pdf))
     - Reading:
+        - [Python Demo of Convergence](https://colab.research.google.com/drive/1HZzcREX_NG_mG2n6hpEy_mH5ygw0Sj34?usp=sharing)
         - Abu-Mustafa, Learning from Data, Chapter 2.
         - Martin Wainwright, High Dimensional Statistics, Cambridge University Press 2019. (Chapter 2)
         - [Cornell Note](https://www.cs.cornell.edu/~sridharan/concentration.pdf)
@@ -236,6 +237,9 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
         - [Stanford Note](http://cs229.stanford.edu/extra-notes/hoeffding.pdf)
 - Mar 31, 2022. Lecture 21.
     - Topics: Is Learning Feasible?
+    - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture22_feasible.pdf))
+    - Reading:
+        - Abu-Mustafa, Learning from Data, Chapter 3.1
 
 
 **Week 13**
