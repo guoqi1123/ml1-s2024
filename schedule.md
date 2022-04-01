@@ -236,7 +236,7 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
         - [CMU Note](http://www.stat.cmu.edu/~larry/=sml/Concentration.pdf)
         - [Stanford Note](http://cs229.stanford.edu/extra-notes/hoeffding.pdf)
 - Mar 31, 2022. Lecture 21.
-    - Topics: Is Learning Feasible?
+    - Topics: Is Learning Feasible? ([Hand-written Note](https://drive.google.com/file/d/10vu6dm8w_356BljTGojPzGvlbVBu_qhT/view?usp=sharing))
     - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture22_feasible.pdf))
     - Reading:
         - Abu-Mustafa, Learning from Data, Chapter 3.1
