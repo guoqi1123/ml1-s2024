@@ -44,7 +44,7 @@ The project will be graded in a two-phase process.
 
 **Phase 1:** Initial Submission (Optional)
 
-Apr 8, Friday, **4:59pm** Eastern Time.
+Apr 15, Friday, **4:59pm** Eastern Time.
 
 This submission is voluntary.
 
@@ -54,13 +54,13 @@ The teaching staff will give you some rough suggestions, of whether you are on t
 
 To participate in the initial submission cycle, you need to really write a full paper. If you submit only an abstract or a half-way done paper, we will not offer any feedback.
 
-The teaching staff will read and offer suggestions by Apr 15.
+The teaching staff will read and offer suggestions by Apr 22.
 
 Please submit through gradescope.
 
 **Phase 2:** Final Submission
 
-Apr 29, Friday, **4:59pm** Eastern Time.
+May 2, Monday, **4:59pm** Eastern Time.
 
 Hard deadline. No extension.
 

@@ -11,9 +11,11 @@ nav_order: 1
 Spring 2022  
 Jan 10, 2022 - Apr 30, 2022  
 
-## Announcements
-- Homework 5 out. Check BrightSpace for link.
-- Quiz 4 will be out Mar 10 (Thur) 5:00pm ET to Mar 13 (Sun) 8:00am ET. For this quiz, there will be 1-2 bonus questions worth 2-3 bonus points. The length of the quiz is **1 hr**.
+## Important dates for the last couple weeks
+- Homework 6 out, due Apr 22, 4:59pm. Check the [homework page](https://ece595.qiguo.org/assignments/homeworks.html).
+- Quiz 6 out on Apr 22 5:00pm, due Apr 24 8:00am. On gradescope.
+- Project optional initial submission due on Apr 15 4:59pm. Check the [project page](https://ece595.qiguo.org/assignments/project.html).
+- Project final submission due on May 2 4:59pm. Check the [project page](https://ece595.qiguo.org/assignments/project.html).
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  
