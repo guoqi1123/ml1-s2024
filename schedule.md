@@ -244,24 +244,31 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
 
 **Week 13**
 - Apr 5, 2022. Lecture 22.
-    - Topics: Probably-Approximately Correct
+    - Topics: Probably-Approximately Correct. ([Hand-written Note](https://drive.google.com/file/d/1oSJa6pK1p8MnHCMwa3v-n1m-Q_5e1Q8Y/view?usp=sharing))
+    - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture24_pac.pdf))
 - Apr 7, 2022. Lecture 23.
-    - Topics: Generalization Bound
+    - Topics: Generalization Bound ([Hand-written Note](https://drive.google.com/file/d/1ABN8cTLgvbJ-NIEMm2enT-lQ7JF4Bj1M/view?usp=sharing))
+    - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture25_generalization.pdf))
 
 **Week 14**
 - Apr 12, 2022. Lecture 24.
-    - Topics: Growth Function
+    - Topics: Growth Function and VC Dimension
+    - Growth Function. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture26_growth.pdf))
+    - VC Dimension. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture27_vc.pdf))
+    - Reading:
+        - Yasar Abu-Mostafa, Learning from Data, chapter 2.1
+        - Mehrya Mohri, Foundations of Machine Learning, Chapter 3.2
 - Apr 14, 2022. Lecture 25.
-    - Topics: Growth Function Example
+    - Topics: Sample and Model Complexity
 
 **Week 15**
 - Apr 19, 2022. Lecture 26.
-    - Topics: VC Dimension
-- Apr 21, 2022. Lecture 27.
     - Topics: Bias and Variance
+- Apr 21, 2022. Lecture 27.
+    - Topics: Overfitting
 
 **Week 16**
 - Apr 26, 2022. Lecture 28.
-    - Topics: Overfitting
+    - Topics: Validation
 - Apr 28, 2022. Lecture 29.
     - Topics: Conclusions
