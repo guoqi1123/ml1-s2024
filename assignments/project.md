@@ -44,7 +44,7 @@ The project will be graded in a two-phase process.
 
 **Phase 1:** Initial Submission (Optional)
 
-Apr 15, Friday, **4:59pm** Eastern Time.
+Apr 17, Sunday, **4:59pm** Eastern Time.
 
 This submission is voluntary.
 
