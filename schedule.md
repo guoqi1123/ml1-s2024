@@ -264,6 +264,11 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
 **Week 15**
 - Apr 19, 2022. Lecture 26.
     - Topics: Bias and Variance
+    - Reading:
+        - [Python Demo of Bias and Variance](https://colab.research.google.com/drive/1csJzHHXsKRl7nikCWSHgXdOumiGEHN0w#scrollTo=pgrZ7NMrHmuB)
+        - Yasar Abu-Mostafa, Learning from Data, chapter 2.2
+        - Chris Bishop, Pattern Recognition and Machine Intelligence, chapter 3.2
+        - Duda, Hart, and Stork, Pattern Classfication, chapter 9.3
 - Apr 21, 2022. Lecture 27.
     - Topics: Overfitting
 
