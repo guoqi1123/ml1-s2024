@@ -271,6 +271,8 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
         - Duda, Hart, and Stork, Pattern Classfication, chapter 9.3
 - Apr 21, 2022. Lecture 27.
     - Topics: Overfitting
+    - Reading:
+        - [Python Demo of Overfitting](https://colab.research.google.com/drive/1h2UtMI6dTSW0Fm8zqA93QzYduK4KOWoi?usp=sharing)
 
 **Week 16**
 - Apr 26, 2022. Lecture 28.
