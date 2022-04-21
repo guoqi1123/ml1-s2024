@@ -264,6 +264,7 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
 **Week 15**
 - Apr 19, 2022. Lecture 26.
     - Topics: Bias and Variance
+    - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture29_bias.pdf))
     - Reading:
         - [Python Demo of Bias and Variance](https://colab.research.google.com/drive/1csJzHHXsKRl7nikCWSHgXdOumiGEHN0w#scrollTo=pgrZ7NMrHmuB)
         - Yasar Abu-Mostafa, Learning from Data, chapter 2.2
@@ -271,8 +272,10 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
         - Duda, Hart, and Stork, Pattern Classfication, chapter 9.3
 - Apr 21, 2022. Lecture 27.
     - Topics: Overfitting
+    - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture30_overfit.pdf))
     - Reading:
         - [Python Demo of Overfitting](https://colab.research.google.com/drive/1h2UtMI6dTSW0Fm8zqA93QzYduK4KOWoi?usp=sharing)
+        - Yasar Abu-Mostafa, Learning from Data, chapter 2.3, 4.1
 
 **Week 16**
 - Apr 26, 2022. Lecture 28.
