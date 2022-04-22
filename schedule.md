@@ -252,18 +252,18 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
 
 **Week 14**
 - Apr 12, 2022. Lecture 24.
-    - Topics: Growth Function and VC Dimension
+    - Topics: Growth Function and VC Dimension. ([Hand-written Note](https://drive.google.com/file/d/1PyiHibxE8WQ20F7PXnVaksl-tyksihDL/view?usp=sharing))
     - Growth Function. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture26_growth.pdf))
     - VC Dimension. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture27_vc.pdf))
     - Reading:
         - Yasar Abu-Mostafa, Learning from Data, chapter 2.1
         - Mehrya Mohri, Foundations of Machine Learning, Chapter 3.2
-- Apr 14, 2022. Lecture 25.
+- Apr 14, 2022. Lecture 25. ([Hand-written Note](https://drive.google.com/file/d/11QqPpDGNhgNuNtQjSPQ2haSXNtsxWuxl/view?usp=sharing))
     - Topics: Sample and Model Complexity
 
 **Week 15**
 - Apr 19, 2022. Lecture 26.
-    - Topics: Bias and Variance
+    - Topics: Bias and Variance ([Hand-written Note](https://drive.google.com/file/d/1ftRYIrZhlL6c9bN2mrIxJWVOnIhkerFP/view?usp=sharing))
     - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture29_bias.pdf))
     - Reading:
         - [Python Demo of Bias and Variance](https://colab.research.google.com/drive/1csJzHHXsKRl7nikCWSHgXdOumiGEHN0w#scrollTo=pgrZ7NMrHmuB)
@@ -271,7 +271,7 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
         - Chris Bishop, Pattern Recognition and Machine Intelligence, chapter 3.2
         - Duda, Hart, and Stork, Pattern Classfication, chapter 9.3
 - Apr 21, 2022. Lecture 27.
-    - Topics: Overfitting
+    - Topics: Overfitting ([Hand-written Note](https://drive.google.com/file/d/1PjKxIrInEnVsuzKnpq-Eftg3aYkoZ2jC/view?usp=sharing))
     - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture30_overfit.pdf))
     - Reading:
         - [Python Demo of Overfitting](https://colab.research.google.com/drive/1h2UtMI6dTSW0Fm8zqA93QzYduK4KOWoi?usp=sharing)
