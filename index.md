@@ -12,10 +12,7 @@ Spring 2022
 Jan 10, 2022 - Apr 30, 2022  
 
 ## Important dates for the last couple weeks
-- Homework 6 out, due Apr 22, 4:59pm. Check the [homework page](https://ece595.qiguo.org/assignments/homeworks.html).
-- Quiz 6 out on Apr 22 5:00pm, due Apr 24 8:00am. On gradescope.
-- Project optional initial submission due on Apr 17 4:59pm. Check the [project page](https://ece595.qiguo.org/assignments/project.html).
-- Project final submission due on May 2 4:59pm. Check the [project page](https://ece595.qiguo.org/assignments/project.html).
+- Project final submission due extended to May 4 4:59pm. Check the [project page](https://ece595.qiguo.org/assignments/project.html).
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  

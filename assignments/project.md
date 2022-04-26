@@ -60,7 +60,7 @@ Please submit through gradescope.
 
 **Phase 2:** Final Submission
 
-May 2, Monday, **4:59pm** Eastern Time.
+May 4, Wednesday, **4:59pm** Eastern Time.
 
 Hard deadline. No extension.
 
