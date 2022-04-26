@@ -281,6 +281,6 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
 - Apr 26, 2022. Lecture 28.
     - Topics: Regularization & Validation
     - Reading:
-        - [Python Demo of Regularization](https://colab.research.google.com/drive/1cD1BnxhjpxCMkX9SwWO8lQMvVsNxW-Cy#scrollTo=yuCq-seh-bU9)
+        - [Python Demo of Regularization](https://colab.research.google.com/drive/1cD1BnxhjpxCMkX9SwWO8lQMvVsNxW-Cy?usp=sharing)
 - Apr 28, 2022. Lecture 29.
     - Topics: Conclusions
