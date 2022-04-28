@@ -284,3 +284,5 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
         - [Python Demo of Regularization](https://colab.research.google.com/drive/1cD1BnxhjpxCMkX9SwWO8lQMvVsNxW-Cy?usp=sharing)
 - Apr 28, 2022. Lecture 29.
     - Topics: Conclusions
+    - Reading:
+        - [Python Demo of Validation](https://colab.research.google.com/drive/1NUhyJYuyCbnVm3F3IKElh_UJ2tUh9j_C?usp=sharing)
