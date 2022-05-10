@@ -279,10 +279,13 @@ reconstruction”, IEEE Trans. Image Process. (2007)](https://ieeexplore.ieee.or
 
 **Week 16**
 - Apr 26, 2022. Lecture 28.
-    - Topics: Regularization & Validation
+    - Topics: Regularization & Validation ([Hand-written Note](https://drive.google.com/file/d/1gz6qdmFD0gRGQ6EIe3J0jbzrYSfipfy9/view?usp=sharing))
+    - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture31_regularization.pdf))
     - Reading:
         - [Python Demo of Regularization](https://colab.research.google.com/drive/1cD1BnxhjpxCMkX9SwWO8lQMvVsNxW-Cy?usp=sharing)
 - Apr 28, 2022. Lecture 29.
-    - Topics: Validation & Conclusion
+    - Topics: Validation & Conclusion ([Hand-written Note](https://drive.google.com/file/d/1oArlYZLvMvS8o4rVs8EYK8tQBDcXlVhW/view?usp=sharing))
+    - Slide from last year. ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture32_validation.pdf))
     - Reading:
         - [Python Demo of Validation](https://colab.research.google.com/drive/1NUhyJYuyCbnVm3F3IKElh_UJ2tUh9j_C?usp=sharing)
+        - Bill Freeman. How to write a good CVPR submission. ([PDF](https://billf.mit.edu/sites/default/files/documents/cvprPapers.pdf))
