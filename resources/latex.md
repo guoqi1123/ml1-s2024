@@ -5,7 +5,7 @@ parent: Resources
 nav_orders: 3
 ---
 
-# ECE 595 / STAT 598: LaTeX
+# ECE 50024 / STAT 59800: LaTeX
 
 ## Why use LaTeX?  
 We encourage you to typeset your homework solutions in LaTeX. Typing your solution in LaTeX has multiple advantages:

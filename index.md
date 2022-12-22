@@ -7,45 +7,37 @@ title: Home
 permalink: /
 nav_order: 1
 ---
-# ECE 595 / STAT 598 Machine Learning
-Spring 2022  
-Jan 10, 2022 - Apr 30, 2022  
+# ECE 50024 / STAT 59800 Machine Learning
+Spring 2023
+Jan 9, 2023 - Apr 29, 2023
 
-## Important dates for the last couple weeks
-- Project final submission due extended to May 4 4:59pm. Check the [project page](https://ece595.qiguo.org/assignments/project.html).
+## Announcement
+- Due to Prof. Guo's visa issue, the first week of lectures will be held on zoom. Zoom information will be posted on [Brightspace](https://purdue.brightspace.com/d2l/home/703824).
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  
-**TA**: Varun Aggarwal  
-**Time**: TuTh 4:30pm-5:45pm Eastern Time  
-**Location**: Mechanical Engineering Bldg 1130  
+**TA**: Wei Chen 
+**In-Person Lecture Time**: TuTh 1:30pm-2:45pm Eastern Time  
+**Location**: Stewart Center 314
 **Course Credit Hours**: 3.00
-
-**For Spring 2022, the class is primarily offered in-person. However, the class will be live streamed on Zoom and recorded, so that students who have to isolate or quarantine can attend the class remotely. The Zoom information can be found on BrightSpace.**
 
 ## Contact and Office Hours
 For any course related issue, please use the course email below. Please do not email our teaching staff using their personal email addresses.  
 
-**Email:** [ece595ml.purdue@gmail.com](mailto:ece595ml.purdue@gmail.com)
+**Email:** [ml1.ece.purdue@gmail.com](mailto:ml1.ece.purdue@gmail.com)
 
 You may specify the person in your email. We will do our best to have him/her reply your email as soon as possible.
 
 **Office Hours:** 
 
-Prof. Qi Guo. TuTh 5:45pm-6:45pm. ME 1130.  
-Varun Aggarwal. WedTh 10:45-11:45am. WANG 2014.
+Prof. Qi Guo. TBD.  
+Wei Chen. TBD
 
 
-<!-- ## Course Correspondences
-There are several ways this course will send out correspondences. Their usages are described below.  
-[Main Site:](https://ece595.qiguo.org/) Course information, homework posts, lecture notes/handouts, announcements.   
-[BrightSpace:](https://purdue.brightspace.com/d2l/home/460528) Homework solutions, announcements.  
-[GradeScope:](https://www.gradescope.com/courses/345155) Homework/quiz/final project submission, grades.  
-[Piazza:](https://piazza.com/purdue/spring2022/ece595stat598) This term we will be using Piazza for class discussion. The system is highly catered to getting you help fast and efficiently from classmates, the TA, and myself. Rather than emailing questions to the teaching staff, I encourage you to post your questions on Piazza. Please let me know if you have trouble accessing Piazza.  
-[Mailing List:](https://engineering.purdue.edu/ECN/mailman/admin/ece595ml-list) After enrollment, you will automatically be added to the course mailing list. It will send out all course announcements. If you do not receive emails from us, please let us know.  
-[Course Calendar:]() Subscribe to the course calendar to get reminders on classes, homework due dates, etc. -->
-
-
+## Past Offering
+This course was originally developed by [Prof. Stanley Chan](https://engineering.purdue.edu/ChanGroup/). As it is evolving every year, please use the materials, e.g. homeworks, handouts, etc., published on THIS website for your study in Spring 2023. 
+[Spring 2022](http://ece595-s2022.qiguo.org/)
+[Spring 2021](https://engineering.purdue.edu/ChanGroup/ECE595/)
 
 
 

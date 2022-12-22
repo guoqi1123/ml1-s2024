@@ -13,15 +13,15 @@ Late homework will not be accepted.
 
 ## Due Dates
 - [Homework 0. (PDF.)](hw0.pdf) Do not hand in.
-- [Homework 1. (PDF.)](https://drive.google.com/file/d/1d4UNEztR2OLYk29nxQIG-JaU5h2Gky0y/view?usp=sharing) Due: Jan. 28, 2022. 4:59pm Eastern Time. [Supplementary Info (Optional.)](https://drive.google.com/file/d/1EJEgRKbhpysAtCiE8TN3yFrzIlwwetQZ/view?usp=sharing)
-- [Homework 2. (PDF.)](https://drive.google.com/file/d/1_x_rdxzT6hkyLuQ7WtkZPrDzAc21VhCP/view?usp=sharing) Due: Feb. 11, 2022. 4:59pm Eastern Time. [Data](https://drive.google.com/file/d/1i99mYS2Q1dZqB2sLSXcb2oisWQNw7Bjc/view?usp=sharing)
-- [Homework 3. (PDF.)](https://drive.google.com/file/d/1uOxqU-nXZsv9T1e4w-zEh1j4N-S6PX86/view?usp=sharing) Due: Feb. 25, 2022. 4:59pm Eastern Time. [Data](https://drive.google.com/file/d/1i0TYgpv3nFnB9MV6jpfpPZEbcSLCJbrX/view?usp=sharing)
-- [Homework 4. (PDF.)](https://drive.google.com/file/d/1uK9_G8GfKm6WIglNdJhWDAXiWKgzLv8Q/view?usp=sharing) Due: Mar. 11, 2022. 4:59pm Eastern Time. [Data](https://drive.google.com/file/d/1VWomMLERf6vaETodmwAGGBZmyGahQms7/view?usp=sharing)
-- Homework 5. Due: Apr. 1, 2022, 4:59pm Eastern Time. Link on BrightSpace.
-- [Homework 6. (PDF.)](https://drive.google.com/file/d/1Np70oodaR5dTtnHn7wvu0v4Qem7qyd5w/view?usp=sharing) Due: Apr. 22, 2022, 4:59pm Eastern Time.
+- Homework 1. Due: Jan. 26, 2022 Thursday. 4:59pm Eastern Time. 
+- Homework 2. Due: Feb. 9, 2022 Thursday. 4:59pm Eastern Time. 
+- Homework 3. Due: Feb. 23, 2022 Thursday. 4:59pm Eastern Time. 
+- Homework 4. Due: Mar. 9, 2022 Thursday. 4:59pm Eastern Time. 
+- Homework 5. Due: Mar. 30, 2022 Thursday, 4:59pm Eastern Time. 
+- Homework 6. Due: Apr. 13, 2022 Thursday, 4:59pm Eastern Time.
 
 ## Online Homework Submission
-- Go to [Gradescope](https://www.gradescope.com/courses/345155)
+- Go to [Gradescope](https://www.gradescope.com/courses/478533)
 - Login
 - Go to Assignment
 - Upload your homework

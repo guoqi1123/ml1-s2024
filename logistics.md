@@ -4,7 +4,7 @@ title: Information
 permalink: /info/
 nav_orders: 2
 ---
-# ECE 595 / STAT 598 Machine Learning
+# ECE 50024 / STAT 59800 Machine Learning
 
 ## Course Description
 This is a graduate-level machine learning course at Purdue ECE. Compared to the various machine learning classes offered on the Internet, this one will focus on the mathematics behind some traditional and fundamental topics in machine learning. The goal of this class is to help students gain a deeper understanding of the mathematical intuition and connection behind a variety of machine learning methods rather than programming per se. 
@@ -13,7 +13,7 @@ The four clusters of topics that will be covered in this course are listed below
 
 **Mathematical Preliminaries.** Matrices, vectors, Lp norm, geometry of the norms, symmetry, positive definiteness, eigen-decomposition. Unconstrained optimization, graident descent, convex functions, Lagrange multipliers, linear least squares. Probability space, random variables, joint distributions, multi-dimensional Gaussians.
 
-**Linear Classifiers.** Linear discriminant analysis, separating hyperplane, multi-class classification, Bayesian decision rule, geometry of Bayesian decision rule, linear regression, logistic regression, perceptron algorithms, support vector machines, nonlinear transformations.
+**Linear/nonlinear Classifiers.** Linear discriminant analysis, separating hyperplane, multi-class classification, Bayesian decision rule, geometry of Bayesian decision rule, linear regression, logistic regression, perceptron algorithms, support vector machines, nonlinear transformations, intro to neural networks.
 
 **Learning Theory.** Bias and variance, training and testing, generalization, PAC framework, Hoeffding inequality, VC dimension.
 
@@ -34,15 +34,15 @@ To help you determine if you have adequate pre-requisites, we encourage you to t
 [Homework 0: (PDF.)](/assignments/hw0.pdf)
 
 ## Grades
-All students will be graded by the rubrics listed below. Everyone (PhD, MS, undergrad) will be graded on the same curve. 
-<!-- If you choose Pass-No Pass, you still need to do everything. If you are above the cut off, you will pass.  -->
+All students will be graded by the rubrics listed below. Everyone (PhD, MS, undergrad, online) will be graded on the same curve. 
+If you choose Pass-No Pass, you still need to do everything. If you are above the cut off, you will pass. 
 
 
 **Homework (10%).** There are six homeworks. I will drop the worst one. Each homework will have 2 points: If you complete the homework, you get 2. If you are partially done with the homework, you get 1. If you do not submit, you get 0. I do not accept late homework.
 
-**Quiz (40%).** There will be six quizzes, and the worst one will be dropped. Each quiz is 30 minutes long. Each quiz will carry 8%. The quizzes are conducted right after the due date of the homework. You will be given a 24-hour window to complete the 30-min quiz, completely online. During the quiz, I will ask you lecture questions. I will also ask you homework questions. For example, if in the homework I ask you to plot a figure, I may ask you to change a parameter and re-plot the figure. Quizzes will be open-book, open-note, open-computer. However, with only 30 minutes, you probably will not have time to read anything besides answering the questions. So, please do the homework.
+**Quiz (40%).** There will be six quizzes, and the worst one will be dropped. Each quiz is 60 minutes long. Each quiz will carry 8%. The quizzes are conducted after the due date of the homework. You will be given about 48-hour window to complete the 60-min quiz, completely online. During the quiz, I will ask you lecture questions. I will also ask you homework questions. For example, if in the homework I ask you to plot a figure, I may ask you to change a parameter and re-plot the figure. Quizzes will be open-book, open-note, open-computer. However, with only 60 minutes, you probably will not have time to read anything besides answering the questions. So, please do the homework.
 
-**Final Project (50%).** Due Apr 29. I will give you a list of papers and topics you can choose from. After you have picked a paper, You will need to implement the methods described in the paper and complete several tasks. The tasks will involve extending the paper, or proposing something new. I will grade your report according to the general standard in ICML, NeurISP, CVPR, and ICCV. Think of that we are reviewers for your papers.
+**Final Project (50%).** Due Apr 29. You will need to re-implement from scratch the method from a paper I assign you, and write a final report. In the final report, you will need to introduce the methematical derivation of the method, and show experiments you performed using your re-implementation. See the project page for the list of papers. We will send out a survey at the beginning of the class to ask your preference on the papers and then make the assignment. Please refer to the project page for more details of the final project.
 
 ## Textbook and References
 There is no official textbook for this course. Please refer to the lecture note section of the website for our lecture materials.
