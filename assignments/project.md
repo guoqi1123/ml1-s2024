@@ -98,3 +98,43 @@ No supplementary materials. All reports have to be self contained.
 
 Do not change the margin, font size, etc.
 
+## Topics
+Neural Ordinary Differential Equations  
+Paper: https://arxiv.org/abs/1806.07366  
+Note: Using machine learning models to describe differential processes
+
+Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks  
+Project page: https://junyanz.github.io/CycleGAN/  
+Note: Unpaired supervised learning for generative models  
+
+Conditional Generative Adversarial Networks  
+Paper: https://arxiv.org/abs/1411.1784  
+Note: The generative-adversarial network that allow you to specify a label for the data you want to generate  
+
+Adaptive Convolutions with Per-pixel Dynamic Filter Atom  
+Paper: https://arxiv.org/abs/2108.07895  
+Note: Improving the convolutional architecture of CNNs using adaptive convolution kernels  
+
+Learning to Reweight Examples for Robust Deep Learning  
+Paper: https://arxiv.org/abs/1803.09050  
+Note: a method to dynamically generate weights for samples when the dataset is not balanced  
+
+Learning with Noisy Labels  
+Paper: https://proceedings.neurips.cc/paper/2013/file/3871bd64012152bfb53fdf04b401193f-Paper.pdf  
+Note: a robust machine learning method when your supervised dataset has noisy labels  
+
+Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection  
+Paper: https://arxiv.org/pdf/1909.08605.pdf  
+Note: a theoretical paper that describes an uncertainty-aware model fitting method  
+
+Plug-and-Play ADMM for Image Restoration: Fixed Point Convergence and Applications  
+Paper: https://arxiv.org/abs/1605.01710  
+Note: an elegant method for image restoration problems in general  
+
+Practical Bayesian Optimization of Machine Learning Algorithms  
+Paper: https://arxiv.org/abs/1206.2944  
+Note: a very useful tool for finding optimal architecture for neural networks  
+
+Optimization as a model for few shot learning  
+Paper: https://openreview.net/forum?id=rJY0-Kcll  
+Note: a door-opening work on metalearning  
