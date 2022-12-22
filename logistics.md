@@ -21,9 +21,6 @@ The four clusters of topics that will be covered in this course are listed below
 
 These topics could help you understand the principles and limitations of machine learning methods, which can be generalized to various popular tools nowaday not covered in this class. If you are taking this course as your *first* class in machine learning, it could lay a solid mathematical foundation for you as you journey on in this field. If you already have machine learning backgrounds, the class could possibly provide you addtional understanding of machine learning from a mathematical perspective.
 
-## Past Offerings
-This course was originally developed by [Prof. Stanley Chan](https://engineering.purdue.edu/ChanGroup/ECE595/). As it is evolving every year, please use the materials, e.g. homeworks, handouts, etc., published on THIS website for your study in Spring 2022. 
-
 ## Pre-requisites
 **Linear Algebra:** MIT 18.06 ([textbook](http://math.mit.edu/~gs/linearalgebra/)) / Stanford ENGR 108 ([textbook](https://web.stanford.edu/~boyd/vmls/)) / Purdue MA 511  
 **Optimization:** MIT 6.079 / Stanford EE 364A ([textbook](https://stanford.edu/~boyd/cvxbook/)) / Purdue ECE 647  
