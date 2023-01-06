@@ -16,7 +16,7 @@ Jan 9, 2023 - Apr 29, 2023
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  
-**TA**: Wei Chen  
+**TA**: Ruqi Bai, Wei Chen  
 **In-Person Lecture Time**: TuTh 1:30pm-2:45pm Eastern Time  
 **Location**: Stewart Center 314  
 **Course Credit Hours**: 3.00  
@@ -31,7 +31,8 @@ You may specify the person in your email. We will do our best to have him/her re
 **Office Hours:** 
 
 Prof. Qi Guo. TBD.  
-Wei Chen. TBD
+Ruqi Bai. TBD.  
+Wei Chen. TBD.  
 
 
 ## Past Offering
