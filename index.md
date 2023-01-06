@@ -35,6 +35,7 @@ Ruqi Bai. TBD.
 Wei Chen. TBD.  
 
 
+
 ## Past Offering
 This course was originally developed by [Prof. Stanley Chan](https://engineering.purdue.edu/ChanGroup/). As it is evolving every year, please use the materials, e.g. homeworks, handouts, etc., published on THIS website for your study in Spring 2023.  
 [Spring 2022](http://ece595-s2022.qiguo.org/)  
