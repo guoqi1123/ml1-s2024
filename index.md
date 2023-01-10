@@ -13,12 +13,13 @@ Jan 9, 2023 - Apr 29, 2023
 
 ## Announcement
 - Due to Prof. Guo's visa issue, the first week of lectures will be held on zoom. Zoom information will be posted on [Brightspace](https://purdue.brightspace.com/d2l/home/703824).
+- Finish the pre-course checklist survey posted on [Brightspace](https://purdue.brightspace.com/d2l/home/703824) by the end of first week. 
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  
 **TA**: Ruqi Bai, Wei Chen  
 **In-Person Lecture Time**: TuTh 1:30pm-2:45pm Eastern Time  
-**Location**: Stewart Center 314  
+**Location**: Wetherill Lab of Chemistry 172  
 **Course Credit Hours**: 3.00  
 
 ## Contact and Office Hours

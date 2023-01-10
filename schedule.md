@@ -14,6 +14,10 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
 **Week 1**
 - Jan 10, 2022. Lecture 0. 
     - Topics: Course overview and mathematics review.
+    - Reading: 
+        - [Python Tutorial.](../resources/python.html) 
+        - [Python for Matrices.](https://drive.google.com/file/d/1H7oBGaskGj09dAYjE3uAScMsgOM2aS2S/view) (Password is in BrightSpace.)
+        - [Python for Plotting.](https://drive.google.com/file/d/1U_RlofuGRKJMLgyqjwCmpJtC63mPUQ5V/view) (Password is in BrightSpace.)
 - Jan 12, 2022. Lecture 1.
     - Topics: Linear regression. 
 

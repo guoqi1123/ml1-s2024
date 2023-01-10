@@ -101,6 +101,7 @@ Do not change the margin, font size, etc.
 ## Topics
 **Neural Ordinary Differential Equations**  
 Paper: https://arxiv.org/abs/1806.07366  
+Informative video about the paper: https://youtu.be/V6nGT0Gakyg
 Note: Using machine learning models to describe differential processes
 
 **Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**  
@@ -125,6 +126,7 @@ Note: a robust machine learning method when your supervised dataset has noisy la
 
 **Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection**  
 Paper: https://arxiv.org/pdf/1909.08605.pdf  
+Informative video about the paper: https://youtu.be/F0AlzLA0DY8
 Note: a theoretical paper that describes an uncertainty-aware model fitting method  
 
 **Plug-and-Play ADMM for Image Restoration: Fixed Point Convergence and Applications**  
