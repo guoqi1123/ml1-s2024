@@ -13,13 +13,15 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
 
 **Week 1**
 - Jan 10, 2022. Lecture 0. 
-    - Topics: Course overview and mathematics review.
+    - Topics: Course overview and linear regression I.
     - Reading: 
         - [Python Tutorial.](../resources/python.html) 
         - [Python for Matrices.](https://drive.google.com/file/d/1H7oBGaskGj09dAYjE3uAScMsgOM2aS2S/view) (Password is in BrightSpace.)
         - [Python for Plotting.](https://drive.google.com/file/d/1U_RlofuGRKJMLgyqjwCmpJtC63mPUQ5V/view) (Password is in BrightSpace.)
+        - [Linear Algebra Review.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_01_algebra.pdf)
+        - [Probability Review.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_02_prob.pdf)
 - Jan 12, 2022. Lecture 1.
-    - Topics: Linear regression. 
+    - Topics: Linear regression II. 
 
 **Week 2**
 - Jan 17, 2022. Lecture 2.
