@@ -13,7 +13,7 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
 
 **Week 1**
 - Jan 10, 2022. Lecture 0. 
-    - Topics: Course overview and linear regression I.
+    - Topics: Course overview and linear regression I. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12013957/View), [Lecture Recording](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12013478/View)
     - Reading: 
         - [Python Tutorial.](../resources/python.html) 
         - [Python for Matrices.](https://drive.google.com/file/d/1H7oBGaskGj09dAYjE3uAScMsgOM2aS2S/view) (Password is in BrightSpace.)
