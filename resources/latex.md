@@ -30,11 +30,11 @@ If you like to install LaTeX on your local machine, there are a lot of resources
 - [MikTeX on Windows and Ubuntu (Youtube)](https://www.youtube.com/watch?v=g6ez7sbaiWc)
 - [MacTeX on Mac (Youtube)](https://www.youtube.com/watch?v=WvGQ2Mrhf7g)
 
-## LaTeX Template for ECE 595 homework
-When submitting your homework, please use the template below.
+## LaTeX Template for ECE 50024 homework
+When submitting your homework, you can consider using the template below. It's not required but highly encouraged. 
 
 - [ECE 595 Template (.zip 11KB)](LaTeXtemplate.zip)
-- [Example PDF (.pdf 110KB)](LaTextemplatePDF.pdf)
+- [Example PDF (.pdf 110KB)](LaTeXtemplatePDF.pdf)
 
 ## LaTeX Template for ECE 595 project
 - Please use the [official ICML 2021 LaTeX template](https://icml.cc/Conferences/2021/StyleAuthorInstructions) to type your report. 
