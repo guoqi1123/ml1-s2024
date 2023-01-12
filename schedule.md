@@ -22,10 +22,14 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
         - [Probability Review.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_02_prob.pdf)
 - Jan 12, 2022. Lecture 1.
     - Topics: Linear regression II. 
+    - Reading:
+        - - [Chapter 7.1.0-7.1.4 of SC.](https://probability4datascience.com/) 
 
 **Week 2**
 - Jan 17, 2022. Lecture 2.
+    - Topics: Examples of Linear Regression.
 - Jan 19, 2022. Lecture 3.
+    - Topics: Ridge and LASSO Regression. 
         
 **Week 3**
 - Jan 24, 2022. Lecture 4.
