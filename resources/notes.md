@@ -1,4 +1,4 @@
-<!-- ---
+---
 layout: page
 title: Past Lecture Notes
 parent: Resources
@@ -14,4 +14,4 @@ Chapter 2 Classification ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/
 Chapter 3 Adversarial Attack ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/chapter3.pdf))
 
 Chapter 4 Learning Theory ([PDF](https://engineering.purdue.edu/ChanGroup/ECE595/files/chapter4.pdf))
- -->
+
