@@ -23,11 +23,18 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
 - Jan 12, 2022. Lecture 1.
     - Topics: Linear regression II. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12033762/View)
     - Reading:
-        - - [Chapter 7.1.0-7.1.4 of SC.](https://probability4datascience.com/) 
+        - [Chapter 7.1.0-7.1.4 of SC.](https://probability4datascience.com/) 
 
 **Week 2**
 - Jan 17, 2022. Lecture 2.
-    - Topics: Examples of Linear Regression.
+    - Topics: Examples of Linear Regression. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12058190/View)
+    - Reading:
+        - [Chapter 7.1.5 of SC.](https://probability4datascience.com/)
+        - [Singular Value Decomposition](https://towardsdatascience.com/understanding-singular-value-decomposition-and-its-application-in-data-science-388a54be95d)
+        - [Linear Regression Examples](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_03_regression.pdf).
+        - [Python Demo of Linear Regression with Outliers](https://colab.research.google.com/drive/1h_1oTz-Qocd-09KKTmbBw4E5mSa6UaCq?usp=sharing)
+        - Recommended linear algebra books, see logistics page. 
+
 - Jan 19, 2022. Lecture 3.
     - Topics: Ridge and LASSO Regression. 
         
