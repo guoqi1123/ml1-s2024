@@ -36,7 +36,16 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
         - Recommended linear algebra books, see logistics page. 
 
 - Jan 19, 2022. Lecture 3.
-    - Topics: Ridge and LASSO Regression. 
+    - Topics: Examples of Linear Regression II, Ridge Regression. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12072976/View)
+    - Reading:
+        - [Chapter 7.4 of SC.](https://probability4datascience.com/)
+        - [Python demo for Ridge and LASSO](https://colab.research.google.com/drive/1bljOM3wQJeFG_tX3u5HRDQy73KZULccW?usp=sharing)
+        - Ridge Regression:
+            - [Stanford CS 229 Note on Linear Algebra](http://cs229.stanford.edu/section/cs229-linalg.pdf)
+            - [Lecture Note on Ridge Regression](https://arxiv.org/pdf/1509.09169.pdf)
+            - Theobald, C. M. (1974). Generalizations of mean square error applied
+to ridge regression. Journal of the Royal Statistical Society. Series B
+(Methodological), 36(1), 103-106.
         
 **Week 3**
 - Jan 24, 2022. Lecture 4.
