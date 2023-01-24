@@ -49,6 +49,12 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
         
 **Week 3**
 - Jan 24, 2022. Lecture 4.
+    - Topics: Ridge and LASSO Regression II. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12098685/View)
+    - Reading:
+        - LASSO Regression:
+            - [ECE / STAT 695 (Lecture 1)](https://engineering.purdue.edu/ChanGroup/ECE695.html)
+            - [Statistical Learning with Sparsity (Chapter 2)](https://web.stanford.edu/~hastie/StatLearnSparsity/)
+            - [Elements of Statistical Learning (Chapter 3.4)](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - Jan 26, 2022. Lecture 5.
 
 **Week 4**
