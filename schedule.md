@@ -56,6 +56,22 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
             - [Statistical Learning with Sparsity (Chapter 2)](https://web.stanford.edu/~hastie/StatLearnSparsity/)
             - [Elements of Statistical Learning (Chapter 3.4)](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - Jan 26, 2022. Lecture 5.
+    - Topics: Optimization I. [Course Whiteboard]()
+    - Reading:
+        - [Tutorial on Optimization.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_04_optima.pdf)
+        - [CVX demo from the class](https://colab.research.google.com/drive/1Hi_oJ8wEDOUGaxxBZV45fyJAMj2uVXiD?usp=sharing)
+        - [Extra CVX demo.](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_04.html)
+        - Unconstrained Optimality Conditions:
+            - Nocedal-Wright, Numerical Optimization. (Chapter 2.1)
+            - Boyd-Vandenberghe, Convex Optimization. (Chapter 9.1)
+        - Convexity
+            - Nocedal-Wright, Numerical Optimization. (Chapter 1)
+            - Boyd-Vandenberghe, Convex Optimization. (Chapter 2 and 3)
+            - [CMU, Convex Optimization (Lecture 2 and 4)](https://www.stat.cmu.edu/~ryantibs/convexopt-F18/)
+            - [Stanford CS 229 (Tutorial)](http://cs229.stanford.edu/section/cs229-cvxopt.pdf)
+            - [UCSD ECE 273 (Tutorial)](http://eceweb.ucsd.edu/~gert/ECE273/CvxOptTutPaper.pdf)
+        - Constrained Optimization
+            - Nocedal-Wright, Numerical Optimization. (Chapter 12.1)
 
 **Week 4**
 - Jan 31, 2022. Lecture 6.
