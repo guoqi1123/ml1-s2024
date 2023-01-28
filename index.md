@@ -12,10 +12,8 @@ Spring 2023
 Jan 9, 2023 - Apr 29, 2023  
 
 ## Announcement
-- Homework 1 out on Brightspace. Due date: Jan. 26, 2022 Thursday. 4:59pm Eastern Time. Submit on Gradescope. No late submission allowed. The materials will be tested in Quiz **1**. 
-- Quiz 0 will be out on Thursday 1/19 at 4:59pm ET. Sorry for the confusion.
-- Due to Prof. Guo's visa issue, the second week of lectures will be held on zoom. Zoom information will be posted on [Brightspace](https://purdue.brightspace.com/d2l/home/703824).
-- Finish the pre-course checklist survey posted on [Brightspace](https://purdue.brightspace.com/d2l/home/703824) by the end of first week. 
+- Homework 2 out on Brightspace. Check Homework page for details.
+- Lectures of week 1/30 will still be online. We will keep doing teaching instead of flipped classroom, so please come to the class.
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  
