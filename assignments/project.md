@@ -137,7 +137,7 @@ Note: an elegant method for image restoration problems in general
 Paper: https://arxiv.org/abs/1206.2944  
 Note: a very useful tool for finding optimal architecture for neural networks  
 Resources:
-    - An informative paper of [Gaussian processes for machine learning](http://mlg.eng.cam.ac.uk/pub/pdf/Ras04.pdf). 
+    - An good starting point is to read and implement this paper: [Gaussian processes for machine learning](http://mlg.eng.cam.ac.uk/pub/pdf/Ras04.pdf). 
 
 **Optimization as a model for few shot learning**  
 Paper: https://openreview.net/forum?id=rJY0-Kcll  
