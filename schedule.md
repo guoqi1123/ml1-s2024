@@ -56,7 +56,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
             - [Statistical Learning with Sparsity (Chapter 2)](https://web.stanford.edu/~hastie/StatLearnSparsity/)
             - [Elements of Statistical Learning (Chapter 3.4)](https://web.stanford.edu/~hastie/ElemStatLearn/)
 - Jan 26, 2022. Lecture 5.
-    - Topics: Optimization I. [Course Whiteboard]()
+    - Topics: Optimization I. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12105986/View)
     - Reading:
         - [Tutorial on Optimization.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_04_optima.pdf)
         - [CVX demo from the class](https://colab.research.google.com/drive/1Hi_oJ8wEDOUGaxxBZV45fyJAMj2uVXiD?usp=sharing)
@@ -75,6 +75,14 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 
 **Week 4**
 - Jan 31, 2022. Lecture 6.
+    - Topics: Optimization II. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12128963/View)
+    - Reading:
+        - [Tutorial on Optimization.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_04_optima.pdf)
+        - [Python demo for gradient descent](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_05.html)
+        - Gradient Descent
+            - Boyd-Vandenberghe, Convex Optimization. (Chapter 9.2-9.4)
+            - Nocedal-Wright, Numerical Optimization. (Chapter 3.1-3.3)
+            - Y. Nesterov, “Introductory lectures on convex optimization”, Chapter 2.
 - Feb 2, 2022. Lecture 7.
 
 **Week 5**
