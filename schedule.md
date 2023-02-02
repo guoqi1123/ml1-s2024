@@ -79,11 +79,17 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Reading:
         - [Tutorial on Optimization.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_04_optima.pdf)
         - [Python demo for gradient descent](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_05.html)
+        - [Python demo for constrained optimization](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_06.html)
         - Gradient Descent
             - Boyd-Vandenberghe, Convex Optimization. (Chapter 9.2-9.4)
             - Nocedal-Wright, Numerical Optimization. (Chapter 3.1-3.3)
             - Y. Nesterov, “Introductory lectures on convex optimization”, Chapter 2.
 - Feb 2, 2022. Lecture 7.
+    - Topics: Optimization III. Linear Separability [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12138830/View)
+    - Reading:
+         - Stochastic Gradient Descent
+            - [CMU 10.725 Lecture](https://www.stat.cmu.edu/~ryantibs/convexopt/lectures/stochastic-gd.pdf)
+            - [Kleinberg et al. (2018) “When Does SGD Escape Local Minima”](https://arxiv.org/pdf/1802.06175.pdf)
 
 **Week 5**
 - Feb 7, 2022. Lecture 8.
