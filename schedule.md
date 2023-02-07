@@ -93,6 +93,21 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 
 **Week 5**
 - Feb 7, 2022. Lecture 8.
+    - Topics: Linear Separability II. Bayesian Decision Rule. 
+    - Reading: 
+        - [Python demo for Bayesian Decision Rule with Gaussian Likelihood](https://colab.research.google.com/drive/1DSN0z1GNAyok8_gC1YbyzmU_xN5Vho7J?usp=sharing)
+        - Separating Hyperplane:
+            - Duda, Hart and Stork’s Pattern Classification, Chapter 5.1 and 5.2.
+            - [Princeton ORFE-523, Lecture 5 on Separating hyperplane.](http://www.princeton.edu/~amirali/Public/Teaching/ORF523/S16/ORF523_S16_Lec5_gh.pdf)
+            - [Cornell ORIE-6300, Lecture 6 on Separating hyperplane](https://people.orie.cornell.edu/dpw/orie6300/fall2008/Lectures/lec06.pdf)
+            - [Caltech, Lecture Note](http://www.its.caltech.edu/~kcborder/Notes/SeparatingHyperplane.pdf)
+        - High Dimensional Gaussian
+            - Bishop, Pattern Recognition and Machine Learning, Chapter 2.3
+            - [Stanford CS 229 Tutorial on Gaussian](http://cs229.stanford.edu/section/gaussians.pdf)
+        - Bayesian Decision Rule
+            - Bishop, Pattern Recognition and Machine Learning, Chapter 4.1
+            - Duda, Hart and Stork’s Pattern Classification, Chapter 2.1, 2.2, 2.6
+            - [UCSD ECE 271A, Lecture 4 and 5](http://www.svcl.ucsd.edu/courses/ece271A/ece271A.htm)
 - Feb 9, 2022. Lecture 9.
 
 **Week 6**
