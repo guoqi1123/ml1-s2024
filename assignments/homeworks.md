@@ -14,11 +14,11 @@ Late homework will not be accepted.
 ## Due Dates
 - [Homework 0. (PDF.)](hw0.pdf) Do not hand in.
 - [Homework 1. (PDF.)](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12045140/View) Due: Jan. 26, 2023 Thursday. 4:59pm Eastern Time. [Supplementary Material (Optional)](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12045141/View)
-- [Homework 2.](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12115440/View) Due: Feb. 9, 2023 Thursday. 4:59pm Eastern Time. [Data](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12115441/View)
-- Homework 3. Due: Feb. 23, 2023 Thursday. 4:59pm Eastern Time. 
-- Homework 4. Due: Mar. 9, 2023 Thursday. 4:59pm Eastern Time. 
-- Homework 5. Due: Mar. 30, 2023 Thursday, 4:59pm Eastern Time. 
-- Homework 6. Due: Apr. 13, 2023 Thursday, 4:59pm Eastern Time.
+- [Homework 2.](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12115440/View) Due: Feb. 16, 2023 Thursday. 4:59pm Eastern Time. [Data](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12115441/View)
+- Homework 3. Due: Mar. 2, 2023 Thursday. 4:59pm Eastern Time. 
+- Homework 4. Due: Mar. 16, 2023 Thursday. 4:59pm Eastern Time. 
+- Homework 5. Due: Apr. 6, 2023 Thursday, 4:59pm Eastern Time. 
+- Homework 6. Due: Apr. 20, 2023 Thursday, 4:59pm Eastern Time.
 
 ## Online Homework Submission
 - Go to [Gradescope](https://www.gradescope.com/courses/478533)

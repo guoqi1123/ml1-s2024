@@ -23,31 +23,31 @@ There will be six quizzes, and the worst one will be dropped. Each quiz is 60 mi
 - Coverage: Homework 1, and materials I posted before the quiz.
 
 **Quiz 2 (8%).**
-- Time: Feb 9 (Thur) 5pm ET to Feb 11 (Sat) 5pm ET.
+- Time: Feb 16 (Thur) 5pm ET to Feb 18 (Sat) 5pm ET.
 - Length of quiz: 60 minutes.
 - Access through gradescope.
 - Coverage: Homework 2, and materials I posted before today's lecture and after the last quiz.
 
 **Quiz 3 (8%).**
-- Time: Feb 23 (Thur) 5pm ET to Feb 25 (Sat) 5pm ET.
+- Time: Mar. 2 (Thur) 5pm ET to Mar 4 (Sat) 5pm ET.
 - Length of quiz: 60 minutes.
 - Access through gradescope.
 - Coverage: Homework 3, and materials I posted before today's lecture and after the last quiz.
 
 **Quiz 4 (8%).**
-- Time: Mar 9 (Thur) 5pm ET to Mar 11 (Sat) 5pm ET.
+- Time: Mar 16 (Thur) 5pm ET to Mar 18 (Sat) 5pm ET.
 - Length of quiz: 60 minutes.
 - Access through gradescope.
 - Coverage: Homework 4, and materials I posted before today's lecture and after the last quiz.
 
 **Quiz 5 (8%).**
-- Time: Mar 30 (Thur) 5pm ET to Apr 1 (Sat) 5pm ET.
+- Time: Apr 6 (Thur) 5pm ET to Apr 8 (Sat) 5pm ET.
 - Length of quiz: 60 minutes.
 - Access through gradescope.
 - Coverage: Homework 5, and materials I posted before today's lecture and after the last quiz.
 
 **Quiz 6 (8%).**
-- Time: Apr 13 (Thur) 5pm ET to Apr 15 (Sat) 5pm ET.
+- Time: Apr 20 (Thur) 5pm ET to Apr 22 (Sat) 5pm ET.
 - Length of quiz: 60 minutes.
 - Access through gradescope.
 - Coverage: Homework 6, and materials I posted before today's lecture and after the last quiz.
