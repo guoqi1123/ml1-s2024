@@ -12,8 +12,7 @@ Spring 2023
 Jan 9, 2023 - Apr 29, 2023  
 
 ## Announcement
-- Homework 2 out on Brightspace. Check Homework page for details.
-- Lectures of week 1/30 will still be online. We will keep doing teaching instead of flipped classroom, so please come to the class.
+- See Piazza for announcements.
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  
@@ -31,9 +30,7 @@ You may specify the person in your email. We will do our best to have him/her re
 
 **Office Hours:** 
 
-Prof. Qi Guo. TBD.  
-Ruqi Bai. TBD.  
-Wei Chen. TBD.  
+Check Piazza.
 
 
 
