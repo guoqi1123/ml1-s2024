@@ -93,7 +93,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 
 **Week 5**
 - Feb 7, 2022. Lecture 8.
-    - Topics: Linear Separability II. Bayesian Decision Rule. 
+    - Topics: Linear Separability II. Bayesian Decision Rule. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12154778/View)
     - Reading: 
         - [Python demo for Bayesian Decision Rule with Gaussian Likelihood](https://colab.research.google.com/drive/1DSN0z1GNAyok8_gC1YbyzmU_xN5Vho7J?usp=sharing)
         - Separating Hyperplane:
