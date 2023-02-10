@@ -95,7 +95,6 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 - Feb 7, 2022. Lecture 8.
     - Topics: Linear Separability II. Bayesian Decision Rule. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12154778/View)
     - Reading: 
-        - [Python demo for Bayesian Decision Rule with Gaussian Likelihood](https://colab.research.google.com/drive/1DSN0z1GNAyok8_gC1YbyzmU_xN5Vho7J?usp=sharing)
         - Separating Hyperplane:
             - Duda, Hart and Stork’s Pattern Classification, Chapter 5.1 and 5.2.
             - [Princeton ORFE-523, Lecture 5 on Separating hyperplane.](http://www.princeton.edu/~amirali/Public/Teaching/ORF523/S16/ORF523_S16_Lec5_gh.pdf)
@@ -104,11 +103,15 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
         - High Dimensional Gaussian
             - Bishop, Pattern Recognition and Machine Learning, Chapter 2.3
             - [Stanford CS 229 Tutorial on Gaussian](http://cs229.stanford.edu/section/gaussians.pdf)
+- Feb 9, 2022. Lecture 9.
+    - Topics: Bayesian Decision Rule. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12164509/View)
+    - Reading:
+        - [Python demo for Bayesian Decision Rule Special Case](https://engineering.purdue.edu/ChanGroup/ECE595/files/ECE595_demo_07.html)
+        - [Python demo for Bayesian Decision Rule with Gaussian Likelihood](https://colab.research.google.com/drive/1DSN0z1GNAyok8_gC1YbyzmU_xN5Vho7J?usp=sharing)
         - Bayesian Decision Rule
             - Bishop, Pattern Recognition and Machine Learning, Chapter 4.1
             - Duda, Hart and Stork’s Pattern Classification, Chapter 2.1, 2.2, 2.6
             - [UCSD ECE 271A, Lecture 4 and 5](http://www.svcl.ucsd.edu/courses/ece271A/ece271A.htm)
-- Feb 9, 2022. Lecture 9.
 
 **Week 6**
 - Feb 14, 2022. Lecture 10.
