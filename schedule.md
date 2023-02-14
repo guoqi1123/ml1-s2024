@@ -115,6 +115,19 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 
 **Week 6**
 - Feb 14, 2022. Lecture 10.
+    - Topics: Classification Error and ROC curves. Parameter Estimation I. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12181804/View)
+    - Reading:
+        - Probability of Error:
+            - Duda, Hart and Stork’s Pattern Classification, Chapter 2.7, 3.1.
+            - Poor, Intro to Signal Estimation and Detection, Chapter 2.
+        - ROC Curve
+            - [ECE645 Note.](https://engineering.purdue.edu/ChanGroup/ECE645Notes/StudentLecture02.pdf)
+        - Parameter Estimation.
+            - Duda, Hart and Stork’s Pattern Classification, Chapter 3.2
+            - [Iowa State EE 527](https://engineering.purdue.edu/ChanGroup/ECE595/files/Lecture11_mle.pdf)
+            - [Purdue ECE 645, Lecture 18-20](https://engineering.purdue.edu/ChanGroup/ECE645.html)
+            - [UCSD ECE 271A, Lecture 6](http://www.svcl.ucsd.edu/courses/ece271A/ece271A.htm)
+            - [Univ. Orleans](https://www.univ-orleans.fr/deg/masters/ESA/CH/Chapter2_MLE.pdf) 
 - Feb 16, 2022. Lecture 11.
 
 **Week 7**
