@@ -129,6 +129,9 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
             - [UCSD ECE 271A, Lecture 6](http://www.svcl.ucsd.edu/courses/ece271A/ece271A.htm)
             - [Univ. Orleans](https://www.univ-orleans.fr/deg/masters/ESA/CH/Chapter2_MLE.pdf) 
 - Feb 16, 2022. Lecture 11.
+    - Topics: Parameter Estimation II. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12192786/View)
+    - Reading:
+        - Same as above.
 
 **Week 7**
 - Feb 21, 2022. Lecture 12.
