@@ -138,7 +138,8 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 **Week 7**
 - Feb 21, 2022. Lecture 12.  
     - Topics: Parameter Estimation III. Logistic Regression
-    - [Python demo](https://colab.research.google.com/drive/187eDDEAe_jJfvS3TPUc6xhpFw2Yect2T)
+    - [Python demo 1](https://colab.research.google.com/drive/187eDDEAe_jJfvS3TPUc6xhpFw2Yect2T)
+    - [Python demo 2](https://colab.research.google.com/drive/1OFKZAFdPQPWsJoRL44eBHA7q4_lO0Wha)
 - Feb 23, 2022. Lecture 13.
 
 **Week 8**
