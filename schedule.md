@@ -135,7 +135,9 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Suggested Reading:
         - Same as above.
 
-**Week 7**
+**Week 7**  
+[Course Note: Maximum a Posteriori](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12396638/View)  
+[Course Note: Logistic Regression](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12396820/View)  
 - Feb 21, 2022. Lecture 12.  
     - Topics: Parameter Estimation III. Logistic Regression
     - [Python demo 1](https://colab.research.google.com/drive/187eDDEAe_jJfvS3TPUc6xhpFw2Yect2T)
