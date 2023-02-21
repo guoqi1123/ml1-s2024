@@ -113,9 +113,9 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
             - Duda, Hart and Stork’s Pattern Classification, Chapter 2.1, 2.2, 2.6
             - [UCSD ECE 271A, Lecture 4 and 5](http://www.svcl.ucsd.edu/courses/ece271A/ece271A.htm)
 
-**Week 6**
-[Course Note: ROC Curves](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12396180/View)
-[Course Note: Maximum Likelihood Estimation](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12396142/View)
+**Week 6**  
+[Course Note: ROC Curves](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12396180/View)  
+[Course Note: Maximum Likelihood Estimation](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12396142/View)  
 - Feb 14, 2022. Lecture 10.
     - Topics: Classification Error and ROC curves. Parameter Estimation I. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12181804/View)
     - Suggested Reading:
@@ -136,7 +136,9 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
         - Same as above.
 
 **Week 7**
-- Feb 21, 2022. Lecture 12.
+- Feb 21, 2022. Lecture 12.  
+    - Topics: Parameter Estimation III. Logistic Regression
+    - [Python demo](https://colab.research.google.com/drive/187eDDEAe_jJfvS3TPUc6xhpFw2Yect2T)
 - Feb 23, 2022. Lecture 13.
 
 **Week 8**
