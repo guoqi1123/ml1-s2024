@@ -114,9 +114,10 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
             - [UCSD ECE 271A, Lecture 4 and 5](http://www.svcl.ucsd.edu/courses/ece271A/ece271A.htm)
 
 **Week 6**
+[Course Note](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12396142/View)
 - Feb 14, 2022. Lecture 10.
     - Topics: Classification Error and ROC curves. Parameter Estimation I. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12181804/View)
-    - Reading:
+    - Suggested Reading:
         - Probability of Error:
             - Duda, Hart and Stork’s Pattern Classification, Chapter 2.7, 3.1.
             - Poor, Intro to Signal Estimation and Detection, Chapter 2.
@@ -130,7 +131,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
             - [Univ. Orleans](https://www.univ-orleans.fr/deg/masters/ESA/CH/Chapter2_MLE.pdf) 
 - Feb 16, 2022. Lecture 11.
     - Topics: Parameter Estimation II. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12192786/View)
-    - Reading:
+    - Suggested Reading:
         - Same as above.
 
 **Week 7**
