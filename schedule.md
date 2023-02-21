@@ -114,7 +114,8 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
             - [UCSD ECE 271A, Lecture 4 and 5](http://www.svcl.ucsd.edu/courses/ece271A/ece271A.htm)
 
 **Week 6**
-[Course Note](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12396142/View)
+[Course Note: ROC Curves](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12396180/View)
+[Course Note: Maximum Likelihood Estimation](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12396142/View)
 - Feb 14, 2022. Lecture 10.
     - Topics: Classification Error and ROC curves. Parameter Estimation I. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12181804/View)
     - Suggested Reading:
