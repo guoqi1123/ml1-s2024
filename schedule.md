@@ -143,7 +143,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - [Python demo 1](https://colab.research.google.com/drive/187eDDEAe_jJfvS3TPUc6xhpFw2Yect2T)
     - [Python demo 2](https://colab.research.google.com/drive/1OFKZAFdPQPWsJoRL44eBHA7q4_lO0Wha)
 - Feb 23, 2022. Lecture 13.
-    - Topics: Logistic Regression.
+    - Topics: Logistic Regression. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12408671/View)
     - [Python demo: why prior is useful for MAP?](https://colab.research.google.com/drive/1sL1I_E5DhhDQ0hDipbciHIXQDl6aryxc#scrollTo=rcXdLMcd-gCG)
 
 **Week 8**
