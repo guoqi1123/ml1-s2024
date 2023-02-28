@@ -148,6 +148,8 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 
 **Week 8**
 - Feb 28, 2022. Lecture 14.
+    - Topics: Logistic Regression. Feature Extraction.
+    - [Python demo: Eigenface](https://colab.research.google.com/drive/119TUCAXlrVtYCgxBuKQx2cIh32XDA1nn?usp=sharing)
 - Mar 2, 2022. Lecture 15.
 
 **Week 9**
