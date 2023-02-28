@@ -147,8 +147,9 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - [Python demo: why prior is useful for MAP?](https://colab.research.google.com/drive/1sL1I_E5DhhDQ0hDipbciHIXQDl6aryxc#scrollTo=rcXdLMcd-gCG)
 
 **Week 8**
+[Course Note: Principal Component Analysis](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12426861/View)
 - Feb 28, 2022. Lecture 14.
-    - Topics: Logistic Regression. Feature Extraction.
+    - Topics: Logistic Regression. Feature Extraction. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12426848/View)
     - [Python demo: Eigenface](https://colab.research.google.com/drive/119TUCAXlrVtYCgxBuKQx2cIh32XDA1nn?usp=sharing)
 - Mar 2, 2022. Lecture 15.
 
