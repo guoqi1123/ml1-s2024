@@ -152,6 +152,8 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Topics: Logistic Regression. Feature Extraction. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12426848/View)
     - [Python demo: Eigenface](https://colab.research.google.com/drive/119TUCAXlrVtYCgxBuKQx2cIh32XDA1nn?usp=sharing)
 - Mar 2, 2022. Lecture 15.
+    - Topics: Feature Extraction. Kernel Methods.
+    - [Python demo: Kernel](https://colab.research.google.com/drive/1MLeV_6qLEID8SeM5r8DGl1PZ1jZYon2W#scrollTo=qb0coABkIVA2)
 
 **Week 9**
 - Mar 7, 2022. Lecture 16.
