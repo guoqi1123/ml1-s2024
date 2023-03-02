@@ -16,7 +16,7 @@ Late homework will not be accepted.
 - [Homework 1. (PDF.)](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12045140/View) Due: Jan. 26, 2023 Thursday. 4:59pm Eastern Time. [Supplementary Material (Optional)](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12045141/View)
 - [Homework 2.](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12115440/View) Due: Feb. 16, 2023 Thursday. 4:59pm Eastern Time. [Data](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12115441/View)
 - [Homework 3.](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12201197/View) Due: Mar. 2, 2023 Thursday. 4:59pm Eastern Time. [Data](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12201198/View)
-- Homework 4. Due: Mar. 23, 2023 Thursday. 4:59pm Eastern Time. 
+- [Homework 4.](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12434383/View) Due: Mar. 23, 2023 Thursday. 4:59pm Eastern Time. [Data](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12434384/View)
 - Homework 5. Due: Apr. 6, 2023 Thursday, 4:59pm Eastern Time. 
 - Homework 6. Due: Apr. 20, 2023 Thursday, 4:59pm Eastern Time.
 
