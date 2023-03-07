@@ -159,6 +159,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 [Course Note: Kernel Methods](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12452632/View)
 - Mar 7, 2022. Lecture 16.
     - [Python demo: Multi-Layer Perceptron](https://playground.tensorflow.org/)
+    - [Python demo: Convolutional Neural Network](https://colab.research.google.com/drive/1C8tLA5__49o-_3vFk3paxPMfHOgYUctG?usp=sharing)
 - Mar 9, 2022. Lecture 17.
 
 **Week 10**  
