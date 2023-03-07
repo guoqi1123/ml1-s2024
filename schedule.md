@@ -146,7 +146,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Topics: Logistic Regression. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12408671/View)
     - [Python demo: why prior is useful for MAP?](https://colab.research.google.com/drive/1sL1I_E5DhhDQ0hDipbciHIXQDl6aryxc#scrollTo=rcXdLMcd-gCG)
 
-**Week 8**
+**Week 8**  
 [Course Note: Principal Component Analysis](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12426861/View)
 - Feb 28, 2022. Lecture 14.
     - Topics: Logistic Regression. Feature Extraction. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12426848/View)
@@ -155,8 +155,10 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Topics: Feature Extraction. Kernel Methods.
     - [Python demo: Kernel](https://colab.research.google.com/drive/1MLeV_6qLEID8SeM5r8DGl1PZ1jZYon2W#scrollTo=qb0coABkIVA2)
 
-**Week 9**
+**Week 9**  
+[Course Note: Kernel Methods](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12452632/View)
 - Mar 7, 2022. Lecture 16.
+    - [Python demo: Multi-Layer Perceptron](https://playground.tensorflow.org/)
 - Mar 9, 2022. Lecture 17.
 
 **Week 10**  
