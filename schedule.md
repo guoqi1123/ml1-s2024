@@ -170,6 +170,8 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 **Week 11**
 [Course Note: Convolutional Neural Network](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12482598/View)  
 - Mar 21, 2022. Lecture 18.
+    - Topics: Convolutional Neural Networks II. 
+    - [Python demo: Neural Style Transfer](https://colab.research.google.com/drive/17o6RFLQSkAMfseljbSxjWaQM7jUZIIYN#scrollTo=0ggx2Na8oROH)
 - Mar 23, 2022, Lecture 19
 
 **Week 12**
