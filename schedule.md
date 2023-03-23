@@ -173,8 +173,8 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Topics: Convolutional Neural Networks II. 
     - [Python demo: Neural Style Transfer](https://colab.research.google.com/drive/17o6RFLQSkAMfseljbSxjWaQM7jUZIIYN#scrollTo=0ggx2Na8oROH)
 - Mar 23, 2022, Lecture 19
-    <!-- - Topics: Generative Adversarial Networks. Adversarial Attacks.
-    - [GAN Tutorial](http://www.mit.edu/~razvan/talk/gan-tutorial/) -->
+    - Topics: Convolutional Neural Networks III. Adversarial Attacks.
+    - [GAN Tutorial](http://www.mit.edu/~razvan/talk/gan-tutorial/)
 
 **Week 12**
 - Mar 28, 2022. Lecture 20.
