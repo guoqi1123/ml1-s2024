@@ -161,20 +161,20 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Topics: Multi-layer Perceptron. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12453996/View)
     - [Python demo: Multi-Layer Perceptron](https://playground.tensorflow.org/)
     - [Python demo: Convolutional Neural Network](https://colab.research.google.com/drive/1C8tLA5__49o-_3vFk3paxPMfHOgYUctG?usp=sharing)
-- Mar 9, 2022. Lecture 17.
+- Mar 9, 2022. Lecture 17. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12461326/View)
     - Topics: Convolutional Neural Network. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12461326/View)
 
 **Week 10**  
 - Spring Break
 
-**Week 11**
+**Week 11**  
 [Course Note: Convolutional Neural Network](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12482598/View)  
 - Mar 21, 2022. Lecture 18.
-    - Topics: Convolutional Neural Networks II. 
+    - Topics: Convolutional Neural Networks II. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12488457/View)
     - [Python demo: Neural Style Transfer](https://colab.research.google.com/drive/17o6RFLQSkAMfseljbSxjWaQM7jUZIIYN#scrollTo=0ggx2Na8oROH)
 - Mar 23, 2022, Lecture 19
-    - Topics: Convolutional Neural Networks III. Adversarial Attacks.
-    - [GAN Tutorial](http://www.mit.edu/~razvan/talk/gan-tutorial/)
+    - Topics: Convolutional Neural Networks III. Adversarial Attacks. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12496493/View)
+    - Optional Reading: [GAN Tutorial](http://www.mit.edu/~razvan/talk/gan-tutorial/)
 
 **Week 12**
 - Mar 28, 2022. Lecture 20.
