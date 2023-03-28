@@ -178,8 +178,8 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 
 **Week 12**  
 [Course Note: Learning Feasibility](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12949036/View)
-- Mar 28, 2022. Lecture 20.
-    - Topics: Probability Inequality. Is Learning Feasible?
+- Mar 28, 2022. Lecture 20. 
+    - Topics: Probability Inequality. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12951357/View)
 - Mar 30, 2022. Lecture 21.
 
 **Week 13**
