@@ -176,8 +176,10 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Topics: Convolutional Neural Networks III. Adversarial Attacks. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12496493/View)
     - Optional Reading: [GAN Tutorial](http://www.mit.edu/~razvan/talk/gan-tutorial/)
 
-**Week 12**
+**Week 12**  
+[Course Note: Learning Feasibility](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12949036/View)
 - Mar 28, 2022. Lecture 20.
+    - Topics: Probability Inequality. Is Learning Feasible?
 - Mar 30, 2022. Lecture 21.
 
 **Week 13**
