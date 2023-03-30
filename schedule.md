@@ -181,6 +181,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 - Mar 28, 2022. Lecture 20. 
     - Topics: Probability Inequality. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12951357/View)
 - Mar 30, 2022. Lecture 21.
+    - Topics: Is Learning Feasible? [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12961664/View)
 
 **Week 13**
 - Apr 4, 2022. Lecture 22.
