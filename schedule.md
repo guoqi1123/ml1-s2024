@@ -184,7 +184,9 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Topics: Is Learning Feasible? [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12961664/View)
 
 **Week 13**
+[Course Note: Generalization Bound](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12976384/View)  
 - Apr 4, 2022. Lecture 22.
+    - Topics: Generalization Bound and Growth Function.
 - Apr 6, 2022. Lecture 23.
 
 **Week 14**
