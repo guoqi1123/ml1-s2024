@@ -185,9 +185,10 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 
 **Week 13**
 [Course Note: Generalization Bound](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12976384/View)  
-- Apr 4, 2022. Lecture 22.
-    - Topics: Generalization Bound and Growth Function.
-- Apr 6, 2022. Lecture 23.
+- Apr 4, 2022. Lecture 22. 
+    - Topics: Generalization Bound and Growth Function. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12991812/View)
+- Apr 6, 2022. Lecture 23. 
+    - VC dimension. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12991813/View)
 
 **Week 14**
 - Apr 11, 2022. Lecture 24.
