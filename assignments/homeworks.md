@@ -18,7 +18,7 @@ Late homework will not be accepted.
 - [Homework 3.](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12201197/View) Due: Mar. 2, 2023 Thursday. 4:59pm Eastern Time. [Data](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12201198/View)
 - [Homework 4.](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12434383/View) Due: Mar. 23, 2023 Thursday. 4:59pm Eastern Time. [Data](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12434384/View)
 - [Homework 5.](https://piazza.com/class/lc8vsk4nzu951c/post/193) Due: Apr. 6, 2023 Thursday, 4:59pm Eastern Time. 
-- Homework 6. Due: Apr. 20, 2023 Thursday, 4:59pm Eastern Time.
+- [Homework 6.](https://www.gradescope.com/courses/478533/assignments/2801139) Due: Apr. 20, 2023 Thursday, 4:59pm Eastern Time.
 
 ## Online Homework Submission
 - Go to [Gradescope](https://www.gradescope.com/courses/478533)
