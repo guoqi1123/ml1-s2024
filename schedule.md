@@ -189,6 +189,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Topics: Generalization Bound and Growth Function. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12991812/View)
 - Apr 6, 2022. Lecture 23. 
     - VC dimension. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12991813/View)
+    - Optional Reading: [VC dimension of MLPs](https://home.ttic.edu/~tewari/lectures/lecture12.pdf)
 
 **Week 14**
 - Apr 11, 2022. Lecture 24.
