@@ -192,9 +192,9 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Optional Reading: [VC dimension of MLPs](https://home.ttic.edu/~tewari/lectures/lecture12.pdf)
 
 **Week 14**  
-[Course Note](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/13009415/View)
+[Course Note](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/13009415/View)  
 - Apr 11, 2022. Lecture 24.
-    - Sample and Model Complexity. Bias and Variance.  
+    - Sample and Model Complexity. Bias and Variance.  [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-12013955)
     - Python Demo: [Bias and Variance](https://colab.research.google.com/drive/1csJzHHXsKRl7nikCWSHgXdOumiGEHN0w)
 - Apr 13, 2022. Lecture 25.
 
