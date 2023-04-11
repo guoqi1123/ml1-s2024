@@ -183,7 +183,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 - Mar 30, 2022. Lecture 21.
     - Topics: Is Learning Feasible? [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12961664/View)
 
-**Week 13**
+**Week 13**  
 [Course Note: Generalization Bound](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12976384/View)  
 - Apr 4, 2022. Lecture 22. 
     - Topics: Generalization Bound and Growth Function. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12991812/View)
@@ -191,9 +191,13 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - VC dimension. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/12991813/View)
     - Optional Reading: [VC dimension of MLPs](https://home.ttic.edu/~tewari/lectures/lecture12.pdf)
 
-**Week 14**
+**Week 14**  
+[Course Note](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/13009415/View)
 - Apr 11, 2022. Lecture 24.
+    - Sample and Model Complexity. Bias and Variance.  
+    - Python Demo: [Bias and Variance](https://colab.research.google.com/drive/1csJzHHXsKRl7nikCWSHgXdOumiGEHN0w)
 - Apr 13, 2022. Lecture 25.
+
 
 **Week 15**
 - Apr 18, 2022. Lecture 26.
