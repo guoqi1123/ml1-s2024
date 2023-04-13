@@ -197,6 +197,8 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Sample and Model Complexity. Bias and Variance.  [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-12013955)
     - Python Demo: [Bias and Variance](https://colab.research.google.com/drive/1csJzHHXsKRl7nikCWSHgXdOumiGEHN0w)
 - Apr 13, 2022. Lecture 25.
+    - Bias and Variance. Overfitting
+    - Python Demo: [Overfitting](https://colab.research.google.com/drive/1h2UtMI6dTSW0Fm8zqA93QzYduK4KOWoi)
 
 
 **Week 15**
