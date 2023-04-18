@@ -196,13 +196,17 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 - Apr 11, 2022. Lecture 24.
     - Sample and Model Complexity. Bias and Variance.  [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/Home?itemIdentifier=D2L.LE.Content.ContentObject.ModuleCO-12013955)
 - Apr 13, 2022. Lecture 25.
-    - Bias and Variance. Overfitting [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/13022201/View)
+    - Bias and Variance. Overfitting. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/13022201/View)
     - Python Demo: [Bias and Variance](https://colab.research.google.com/drive/1csJzHHXsKRl7nikCWSHgXdOumiGEHN0w)
-    - Python Demo: [Overfitting](https://colab.research.google.com/drive/1h2UtMI6dTSW0Fm8zqA93QzYduK4KOWoi)
 
 
 **Week 15**
-- Apr 18, 2022. Lecture 26.
+[Course Note](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/13042307/View)  
+- Apr 18, 2022. Lecture 26.  
+    - Overfitting. Regularization. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/13042280/View)
+    - Python Demo: [Overfitting](https://colab.research.google.com/drive/1h2UtMI6dTSW0Fm8zqA93QzYduK4KOWoi)
+
+
 - Apr 20, 2022. Lecture 27.
 
 **Week 16**
