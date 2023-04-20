@@ -205,9 +205,11 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 - Apr 18, 2022. Lecture 26.  
     - Overfitting. Regularization. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/13042280/View)
     - Python Demo: [Overfitting](https://colab.research.google.com/drive/1h2UtMI6dTSW0Fm8zqA93QzYduK4KOWoi)
-
+    - Python Demo: [Regularization](https://colab.research.google.com/drive/1cD1BnxhjpxCMkX9SwWO8lQMvVsNxW-Cy#scrollTo=Douj4b0ohum9)
 
 - Apr 20, 2022. Lecture 27.
+    - Validation. 
+    - Python Demo: [Validation](https://colab.research.google.com/drive/1NUhyJYuyCbnVm3F3IKElh_UJ2tUh9j_C)
 
 **Week 16**
 - Apr 25, 2022. Lecture 28.
