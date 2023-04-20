@@ -208,7 +208,7 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
     - Python Demo: [Regularization](https://colab.research.google.com/drive/1cD1BnxhjpxCMkX9SwWO8lQMvVsNxW-Cy#scrollTo=Douj4b0ohum9)
 
 - Apr 20, 2022. Lecture 27.
-    - Validation. 
+    - Validation. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/13051262/View)
     - Python Demo: [Validation](https://colab.research.google.com/drive/1NUhyJYuyCbnVm3F3IKElh_UJ2tUh9j_C)
 
 **Week 16**
