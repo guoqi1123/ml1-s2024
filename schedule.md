@@ -209,8 +209,10 @@ to ridge regression. Journal of the Royal Statistical Society. Series B
 
 - Apr 20, 2022. Lecture 27.
     - Validation. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/13051262/View)
-    - Python Demo: [Validation](https://colab.research.google.com/drive/1NUhyJYuyCbnVm3F3IKElh_UJ2tUh9j_C)
 
 **Week 16**
 - Apr 25, 2022. Lecture 28.
+    - Validation II. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/13072480/View)
+    - Slides: [Ethics of AI](https://purdue.brightspace.com/d2l/le/content/703824/viewContent/13072481/View)
+    - Python Demo: [Validation](https://colab.research.google.com/drive/1NUhyJYuyCbnVm3F3IKElh_UJ2tUh9j_C)
 - Apr 27, 2022. Lecture 29.
