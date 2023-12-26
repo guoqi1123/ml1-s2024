@@ -8,34 +8,30 @@ permalink: /
 nav_order: 1
 ---
 # ECE 50024 / STAT 59800 Machine Learning
-Spring 2023  
-Jan 9, 2023 - Apr 29, 2023  
+Spring 2024  
+Jan 8, 2024 - Apr 26, 2024  
 
 ## Announcement
 - See Piazza for announcements.
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  
-**TA**: Ruqi Bai, Wei Chen  
+**TA**: 
 **In-Person Lecture Time**: TuTh 1:30pm-2:45pm Eastern Time  
 **Location**: Wetherill Lab of Chemistry 172  
 **Course Credit Hours**: 3.00  
 
 ## Contact and Office Hours
-For any course related issue, please use the course email below. Please do not email our teaching staff using their personal email addresses.  
-
-**Email:** [ml1.ece.purdue@gmail.com](mailto:ml1.ece.purdue@gmail.com)
-
-You may specify the person in your email. We will do our best to have him/her reply your email as soon as possible.
+For any course related issue, please post as on Piazza, either as public or private posts.
 
 **Office Hours:** 
 
 Check Piazza.
 
 
-
 ## Past Offering
-This course was originally developed by [Prof. Stanley Chan](https://engineering.purdue.edu/ChanGroup/). As it is evolving every year, please use the materials, e.g. homeworks, handouts, etc., published on THIS website for your study in Spring 2023.  
+This course was originally developed by [Prof. Stanley Chan](https://engineering.purdue.edu/ChanGroup/). As it is evolving every year, please use the materials, e.g. homeworks, handouts, etc., published on THIS website for your study in Spring 2024.  
+[Spring 2023](https://ml1-s2023.qiguo.org/)
 [Spring 2022](http://ece595-s2022.qiguo.org/)  
 [Spring 2021](https://engineering.purdue.edu/ChanGroup/ECE595/)
 
