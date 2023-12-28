@@ -22,36 +22,37 @@ nav_orders: 3
 
 ## Logistics
 
-The final project will be a critical pillar of this course. As the lecture and homework will mostly focus on the mathematical foundation of the machine learning models, the final project will help you combine the mathematical foundation with the practical domain of these machine learning models, by writing a machine learning model and a paper yourself. 
+The final project will be a critical pillar of this course. As the lecture and homework will mostly focus on the mathematical foundation of the machine learning models, the final project will help you combine the mathematical foundation with the practical domain of these machine learning models for a practical problem. 
 
-The topic of the final project are restricted to the ten papers listed on this website. These papers are carefully selected, and contain the most famous and useful machine learning models nowadays. I understand you might want to have a more open-ended project. Unfortunately, we will be unable to provide useful feedbacks for you to learn and ensure fairness given the size of the class. However, you are encouraged to bring your own data to your project to tested your implemented machine learning model.
+The topic of the final project are restricted to the papers listed on this website. These papers are carefully selected, and contain the most famous and useful machine learning models nowadays. I understand you might want to have a more open-ended project. Unfortunately, we will be unable to provide useful feedbacks for you to learn and ensure fairness given the size of the class. However, you are encouraged to bring your own data to your project to tested your implemented machine learning model.
 
-The final project will be **individual**, meaning everyone needs to write their own code and final report. Do not panic and feel you are on your own. As our final project will be restricted to ten papers, for each project, there will be 8 to 10 students working on it. You are encouraged to form study groups with those working on the same project. We allow and encourage discussion among students, sharing useful online resources, and providing peer-reviews of final reports. You just need to acknowledge all the help you receive. However, it is NOT allowed to use code written by other students in the class, and everyone needs to write their own report. You need to write an acknowledge section in your final report (not counted towards 10 pages) to list all help you receive from other students in the class. Every report will be graded using the same criteria.
+The final project will be based on **teams**. Each team will consist of five people. Each team only needs to submit one code and final report. You will need to form the team during the first week and I will assign each team the topic on the second week. In the final report, you need to specify clearly the contribution of each team member. The final grade of each student will be the grade of your team's report & code with an individual adjustment based on your contribution. *You may lose points if your contribution is low to the project.* 
 
+## Checkpoints
 
-## Requirements
+The final project is an effort throughout the semester. We will ask you submit something at each homework deadline as the checkpoint for the final project. The checkpoint will be worth certain points of the final project, so you need to start working on the project early. The planned checkpoint and their point worth are listed below. The actual checkpoints may deviate from this based on the actual progress of the class.
 
-The final projects requires you to re-implement the machine learning method described in the the paper we assign you, use your re-implementation to perform experiments of your choice to demonstrate the re-implementation is successful, and write a report. 
+- Checkpoint 1. Problem Statement. Submit a one-page manuscript that rigorously explain the problem that the paper aims to solve. Answer why this problem is important and what are the applications. You want to use your own word to describe this. Closely resembling the original paper will result in heavy penalty. Due at Homework 2 deadline. (15% of the final project grade)
 
-There will be code for these papers online, and you are encouraged to first play with these codes before implementing your own. Do not copy or modify any code from these existing implementations as your final project; we will be able to use code plagiarism detectors to find it. The purpose of requiring you write everything from scratch is to help you learn how to overcome practical problems that people never talk about in their papers. It is not enough to only understand the mathematical insight of a machine learning model. To build a machine learning model that works in real life, you will face a lot of problems that are not reflected in the mathematical derivation, and need to know how to tackle them. 
+- Checkpoint 2. Proposed Method. Submit a one-page manuscript that rigorously explain the method/model of the paper. Also, answer why the proposed method is better than other methods. You want to use your own word to describe this. Closely resembling the original paper will result in heavy penalty. Due at Homework 3 deadline. (15% of the final project grade)
 
-We understand that everyone has a different background in the field. Therefore, you can simplify the problem based on your capability. For example, you can have extra assumptions on the data your model will work on, or you can reduce the complexity of your re-implemented machine learning model, etc. You will have to clearly state what kind of simplification you have made in your final report. Don't overclaim. In academia, your integrity reputation will be severely damaged if you overstate what you can do. In his class, we will **heavily penalize** overstatement. 
+- Checkpoint 3. Solving a Toy Problem. Submit a one-page manuscript that demonstrates solving a toy problem using your reimplementation. A toy problem can be a very simple dataset, e.g., the MNIST, or a hypothetical problem that you create just to demonstrate that your reimplementation works. Due at Homework 4 deadline. (15% of the final project grade)
 
-Your final report will be in the form of an academic paper that needs to be in the format below. Your submitted final report will be independently reviewed by the teaching staff, and rated according to the following criteria:
+- Checkpoint 4. Submit a one-page manuscript that describe what real world problem that you propose to solve using your reimplementation, where the data comes from, and what the intended outcome is. Due at Homework 5 deadline. (15% of the final project grade)
+
+- Final report due. Checkpoint 1 to 3 each becomes a section in the final report. Expand checkpoint 4 to include the results you obtain of solving the real world problem. (40% of the final project grade) 
+
+## Grading criteria
+
+Each checkpoint will be graded based on the clarity of the submitted manuscript, whether the team have a thorough understanding of the problem, and whether the team has comprehensively considered the problem they will solve. The instructor will rank the checkpoint manuscripts for each topic based on the above criteria. The grading will be based on your ranking. 
+
+Your final report will be rated according to the following criteria:
 
 - Does the paper clearly state the problem that the implemented machine learning model targets? You will have to use your own language to describe the problem. **Heavy penalty** will be added for copying (with moderate modification of) the original paper. 
 
 - Does the paper identify and clearly descirbe similar works in the related work, and lists their advantages and disadvantages? 
 
 - Does the paper explain the mathematical derivation well? You will have to use your own language to form the mathematical derviation. **Heavy penalty** will be added for copying (with moderate modification of) the original paper. 
-
-- Does the paper clearly state the technical difficulties in the reimplementation and possible solutions?
-
-- Does the paper identify, describe, and analyze the effect of different engineering practices, e.g., implementation tricks and parameter/hyperparameter choices, using scientific languages?
-
-- Does the student train the implemented model using the dataset they select, and identify and solve issues that prevent the model from convergence? 
-
-- Does the paper analyze the experimental behaviors of their model on selected application and compare with baselines?
 
 - Are there sufficient experiments demonstrating the success of re-implementation? 
 
@@ -62,26 +63,27 @@ Your final report will be in the form of an academic paper that needs to be in t
 - Is the paper easy to read? Are your ideas elaborated clearly?
 
 
+## Presentation
+Top teams of each topic will be invited to present their work to the class at the end of the semester. These teams may receive up to 5% bonus to the final project grade based on the quality of their presentation. Details will be announced later. 
+
+
 ## Instructions
-Your report (aka paper) should have the following sections.
+Your final report (aka paper) should have the following sections.
 
-**Introduction.** In the introduction section, you need to define the problem, and justify why it is a valuable problem to investigate. In each of the topics below, you are likely going to pick one or two sub-topics to investigate. In the introduction, I want to see your explanation of why do you pick those sub-problems. You can explain their significance, e.g., by solving this problem we will gain certain insights. Think about a conference reviewer. Why would somebody accept your paper? It has to be relevant, and useful.
+**Problem Statement.** In the introduction section, you need to define the problem, and justify why it is a valuable problem to investigate. In each of the topics below, you are likely going to pick one or two sub-topics to investigate. In the introduction, I want to see your explanation of why do you pick those sub-problems. You can explain their significance, e.g., by solving this problem we will gain certain insights. Think about a conference reviewer. Why would somebody accept your paper? It has to be relevant, and useful.
 
-**Related work.** This is the literature review section. Demonstrate to me that you have read several papers, and you are able to summarize them into meaningful categories. A good literature survey should articulate the limitations of the existing work, and highlight the new findings of your work. Try not to give a laundry list of papers, because they are not very useful.
+**Method.** The heading of this section is up to you. I call it “method”, but you can call it whatever you want. This is the main part of your paper. If you are proposing a new idea, you need to explain your idea. If you are studying some phenonomenon, you need to explain the insights behind the phenonomenon. A good method section should contain a few very carefully drawn figures to illustrate your ideas. 
 
-**Method.** The heading of this section is up to you. I call it “method”, but you can call it whatever you want. This is the main part of your paper. If you are proposing a new idea, you need to explain your idea. If you are studying some phenonomenon, you need to explain the insights behind the phenonomenon. A good method section should contain a few very carefully drawn figures to illustrate your ideas. Depending on the nature of your project, you may want to combine this section with the experiment section. If this appears necessary for your work, please make your best judgement.
-
-**Experiment.** As the heading suggests, this is the place where you put all your experimental results. If you are comparing with other methods, you need to define the evaluation metric. If you conduct an ablation study, explain why your ablation study is fair and meaningful. Memember, experiments are presented in order to show evidence of anything you claim. If you claim something, you'd better have an experiment to support.
+**Experiment.** As the heading suggests, this is the place where you put all your experimental results. You will put the result of solving the toy problem and the real problem here. You want to have comprehensive description of your experiment, so that people can easily see that your reimplementation is successful and can reproduce your experiment.
 
 **Conclusion.** People are sometimes confused about the conclusion section. In my opinion, conclusion is not the same as summary. Yes, you need to summarize the paper in this section. But more importantly, you want to explain the limitations of your findings. You also need to suggest future directions of your work. Sometimes, you may have found some unexpected outcomes. Then in the conclusion you may want to comment on them.
 
-**Acknowledgement.** Acknowledge all the help you receive from others throughout the project.
+**Contribution Statement.** Precisely state the contribution of each team member, e.g. who write which sections of the paper, who write which functions in the code, etc. Also, state all the help you receive for the final report. 
 
-Every paper is unique, and so you need to make the best judgement of what to include and what not to include in the paper. The above outline is recommended, but not mandatory. However, based on my past experience in reviewing papers, serving as program chairs and journal editors, the recommended outline is quite robust. So if it is your first time writing, please consider it.
 
 ## Deadlines
 
-Apr 30, Sunday, **4:59pm** Eastern Time.
+Apr 26, Sunday, **11:59pm** Eastern Time.
 
 Hard deadline. No extension.
 
@@ -92,7 +94,7 @@ Please submit through gradescope.
 ## Submission Format
 Please use the official ICML 2021 LaTeX template to type your report. You can download the template at https://icml.cc/Conferences/2021/StyleAuthorInstructions
 
-Page length: no more than 10 pages. References do not count towards the 10 pages.
+Page length: no more than 8 pages. References do not count towards the 8 pages.
 
 No supplementary materials. All reports have to be self contained.
 
@@ -104,14 +106,6 @@ Paper: https://arxiv.org/abs/1806.07366
 Informative video about the paper: https://youtu.be/V6nGT0Gakyg
 Note: Using machine learning models to describe differential processes
 
-**Unpaired Image-to-Image Translation using Cycle-Consistent Adversarial Networks**  
-Project page: https://junyanz.github.io/CycleGAN/  
-Note: Unpaired supervised learning for generative models  
-
-**Conditional Generative Adversarial Networks**  
-Paper: https://arxiv.org/abs/1411.1784  
-Note: The generative-adversarial network that allow you to specify a label for the data you want to generate  
-
 **Adaptive Convolutions with Per-pixel Dynamic Filter Atom**  
 Paper: https://arxiv.org/abs/2108.07895  
 Note: Improving the convolutional architecture of CNNs using adaptive convolution kernels  
@@ -120,25 +114,7 @@ Note: Improving the convolutional architecture of CNNs using adaptive convolutio
 Paper: https://arxiv.org/abs/1803.09050  
 Note: a method to dynamically generate weights for samples when the dataset is not balanced  
 
-**Learning with Noisy Labels**  
-Paper: https://proceedings.neurips.cc/paper/2013/file/3871bd64012152bfb53fdf04b401193f-Paper.pdf  
-Note: a robust machine learning method when your supervised dataset has noisy labels  
-
-**Graduated Non-Convexity for Robust Spatial Perception: From Non-Minimal Solvers to Global Outlier Rejection**  
-Paper: https://arxiv.org/pdf/1909.08605.pdf  
-Informative video about the paper: https://youtu.be/F0AlzLA0DY8
-Note: a theoretical paper that describes an uncertainty-aware model fitting method  
-
 **Plug-and-Play ADMM for Image Restoration: Fixed Point Convergence and Applications**  
 Paper: https://arxiv.org/abs/1605.01710  
 Note: an elegant method for image restoration problems in general  
 
-**Practical Bayesian Optimization of Machine Learning Algorithms**  
-Paper: https://arxiv.org/abs/1206.2944  
-Note: a very useful tool for finding optimal architecture for neural networks  
-Resources:
-    - An good starting point is to read and implement this paper: [Gaussian processes for machine learning](http://mlg.eng.cam.ac.uk/pub/pdf/Ras04.pdf). 
-
-**Optimization as a model for few shot learning**  
-Paper: https://openreview.net/forum?id=rJY0-Kcll  
-Note: a door-opening work on metalearning  
