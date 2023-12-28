@@ -5,6 +5,9 @@ permalink: /policies/
 nav_orders: 4
 ---
 
+## Large Language Model Policy  
+This course forbids the usage of large language models (LLMs), such as ChatGPT, as you prepare your submission of homeworks, quizzes, and the final project. Your homework may be examined by the LLM detectors to detect the usage of LLM models. The violation of this policy will be treated as cheating or plagiarism, and will be reported to the [Office of Student Rights and Responsibilities (OSRR)](https://www.purdue.edu/odos/osrr/).  
+
 ## Grading Scale
 This class is graded according to a set curve. Final grades will be distributed through a comparison among students based on the assignments outlined.
 

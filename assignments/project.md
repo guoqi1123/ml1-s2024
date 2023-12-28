@@ -24,7 +24,7 @@ nav_orders: 3
 
 The final project will be a critical pillar of this course. As the lecture and homework will mostly focus on the mathematical foundation of the machine learning models, the final project will help you combine the mathematical foundation with the practical domain of these machine learning models for a practical problem. 
 
-The topic of the final project are restricted to the papers listed on this website. These papers are carefully selected, and contain the most famous and useful machine learning models nowadays. I understand you might want to have a more open-ended project. Unfortunately, we will be unable to provide useful feedbacks for you to learn and ensure fairness given the size of the class. However, you are encouraged to bring your own data to your project to tested your implemented machine learning model.
+The topic of the final project are restricted to the papers listed on this website. These papers are carefully selected. Each one of them contains a reasonable amount of math that you need to understand, and the reimplementation is not so straightforward even popular deep learning packages have already provided you a lot of well-packaged tools. I understand you might want to have a more open-ended project. Unfortunately, we will be unable to provide useful feedbacks for you to learn and ensure fairness given the size of the class. However, you are encouraged to bring your own data to your project to tested your implemented machine learning model.
 
 The final project will be based on **teams**. Each team will consist of five people. Each team only needs to submit one code and final report. You will need to form the team during the first week and I will assign each team the topic on the second week. In the final report, you need to specify clearly the contribution of each team member. The final grade of each student will be the grade of your team's report & code with an individual adjustment based on your contribution. *You may lose points if your contribution is low to the project.* 
 
@@ -106,9 +106,9 @@ Paper: https://arxiv.org/abs/1806.07366
 Informative video about the paper: https://youtu.be/V6nGT0Gakyg
 Note: Using machine learning models to describe differential processes
 
-**Adaptive Convolutions with Per-pixel Dynamic Filter Atom**  
-Paper: https://arxiv.org/abs/2108.07895  
-Note: Improving the convolutional architecture of CNNs using adaptive convolution kernels  
+**Recorrupted-to-Recorrupted: Unsupervised Deep Learning for Image Denoising**  
+Paper: https://openaccess.thecvf.com/content/CVPR2021/papers/Pang_Recorrupted-to-Recorrupted_Unsupervised_Deep_Learning_for_Image_Denoising_CVPR_2021_paper.pdf  
+Note: Unsupervised image denoising without the presence of clean data
 
 **Learning to Reweight Examples for Robust Deep Learning**  
 Paper: https://arxiv.org/abs/1803.09050  
