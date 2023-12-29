@@ -6,48 +6,32 @@ nav_orders: 2
 ---
 
 # Quizzes
-There will be six quizzes, and the worst one will be dropped. Each quiz is 60 minutes long. Each quiz will carry 8%. The quizzes are conducted right after the due date of the homework. You will be given a 48-hour window to complete the 60-min quiz, completely online. During the quiz, I will ask you lecture questions. I will also ask you homework questions. For example, if in the homework I ask you to plot a figure, I may ask you to change a parameter and re-plot the figure. Quizzes will be open-book, open-note, open-computer. However, with only 60 minutes, you probably will not have time to read anything besides answering the questions. So, please do the homework. On the contrary, if you attend the lecture and do your homework, you will find 60 mins to be much more than enough for the quiz. 
+There will be five quizzes, and the worst one will be dropped. Each quiz is 40 minutes long. Each quiz will carry 8%. The quizzes are conducted in the class right after the due date of the homework. Please bring your laptop to class, as the quiz will be on Gradescope. During the quiz, I will ask you lecture questions. I will also ask you homework questions. For example, if in the homework I ask you to plot a figure, I may ask you to change a parameter and re-plot the figure. Quizzes will be open-book, open-note, open-computer. However, with only 40 minutes, you probably will not have time to read anything besides answering the questions. So, please do the homework. On the contrary, if you attend the lecture and do your homework, you will find 40 mins to be much more than enough for the quiz. 
 
 **Quiz 0. Don't count in the grade.**
 
-- Time: Jan 19 (Thur) 5pm ET to Jan 21 (Sat) 5pm ET.
-- Length of quiz: 60 minutes.
+- The quiz zero will be published on Gradescope to give you a taste of what it looks like.
 - Access through gradescope.
 - Coverage: Homework 0.
 
-**Quiz 1 (8%).**
+**Quiz 1.**
 
-- Time: Jan 26 (Thur) 5pm ET to Jan 28 (Sat) 5pm ET.
-- Length of quiz: 60 minutes.
-- Access through gradescope.
-- Coverage: Homework 1, and materials I posted before the quiz.
+- Time: In the class immediately after homework 1 due.  
+- Coverage: Homework 1, and materials I posted before the quiz.  
 
-**Quiz 2 (8%).**
-- Time: Feb 16 (Thur) 5pm ET to Feb 18 (Sat) 5pm ET.
-- Length of quiz: 60 minutes.
-- Access through gradescope.
-- Coverage: Homework 2, and materials I posted before today's lecture and after the last quiz.
+**Quiz 2.**
+- Time: In the class immediately after homework 2 due.  
+- Coverage: Homework 2, and materials I posted before the current lecture and after the previous quiz.
 
-**Quiz 3 (8%).**
-- Time: Mar. 2 (Thur) 5pm ET to Mar 4 (Sat) 5pm ET.
-- Length of quiz: 60 minutes.
-- Access through gradescope.
-- Coverage: Homework 3, and materials I posted before today's lecture and after the last quiz.
+**Quiz 3.**
+- Time: In the class immediately after homework 3 due.  
+- Coverage: Homework 3, and materials I posted before the current lecture and after the previous quiz.
 
-**Quiz 4 (8%).**
-- Time: Mar 23 (Thur) 5pm ET to Mar 25 (Sat) 5pm ET.
-- Length of quiz: 60 minutes.
-- Access through gradescope.
-- Coverage: Homework 4, and materials I posted before today's lecture and after the last quiz.
 
-**Quiz 5 (8%).**
-- Time: Apr 6 (Thur) 5pm ET to Apr 8 (Sat) 5pm ET.
-- Length of quiz: 60 minutes.
-- Access through gradescope.
-- Coverage: Homework 5, and materials I posted before today's lecture and after the last quiz.
+**Quiz 4.**
+- Time: In the class immediately after homework 4 due.  
+- Coverage: Homework 4, and materials I posted before the current lecture and after the previous quiz.
 
-**Quiz 6 (8%).**
-- Time: Apr 20 (Thur) 5pm ET to Apr 22 (Sat) 5pm ET.
-- Length of quiz: 60 minutes.
-- Access through gradescope.
-- Coverage: Homework 6, and materials I posted before today's lecture and after the last quiz.
+**Quiz 5.**
+- Time: In the class immediately after homework 5 due.  
+- Coverage: Homework 5, and materials I posted before the current lecture and after the previous quiz.
