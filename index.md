@@ -16,7 +16,7 @@ Jan 8, 2024 - Apr 26, 2024
 
 ## Course Information
 **Instructor**: [Prof. Qi Guo](https://qiguo.org)  
-**TA**: Zihan Zhou
+**TA**: Zihan Zhou, Wei Xu  
 **In-Person Lecture Time**: TuTh 1:30pm-2:45pm Eastern Time  
 **Location**: Wetherill Lab of Chemistry 172  
 **Course Credit Hours**: 3.00  
@@ -25,8 +25,8 @@ Jan 8, 2024 - Apr 26, 2024
 For any course related issue, please post as on Piazza, either as public or private posts. Do NOT email the instructor or the TAs as emails might have a high chance to be missed.
 
 **Office Hours:** 
-TA office hours: Monday to Thursday 6-8pm, location TBD,
-Prof Guo office hours: TBD
+TA office hours: Monday to Thursday 6-8pm, BHEE 209 Table 2    
+Prof Guo office hours: Thursday, 3-4pm, MSEE 370, or by appointment
 
 
 ## Past Offering
