@@ -25,7 +25,7 @@ Jan 8, 2024 - Apr 26, 2024
 For any course related issue, please post as on Piazza, either as public or private posts. Do NOT email the instructor or the TAs as emails might have a high chance to be missed.
 
 **Office Hours:** 
-TA office hours: Monday to Thursday 6-8pm, BHEE 209 Table 2    
+TA office hours: Monday to Thursday 6-8pm, BHEE 209 Table 2  
 Prof Guo office hours: Thursday, 3-4pm, MSEE 370, or by appointment
 
 

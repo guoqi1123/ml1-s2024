@@ -21,4 +21,6 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
         - [Linear Algebra Review.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_01_algebra.pdf)
         - [Probability Review.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_02_prob.pdf)
 - Jan 11, 2022. Lecture 1.
-
+    - Topics: Linear regression II. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15701121/View)
+    - Reading:
+         - [Week 1 Course Note](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15701143/View)
