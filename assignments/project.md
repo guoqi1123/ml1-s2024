@@ -83,7 +83,7 @@ Your final report (aka paper) should have the following sections.
 
 ## Deadlines
 
-Apr 26, Sunday, **11:59pm** Eastern Time.
+Apr 26, **11:59pm** Eastern Time.
 
 Hard deadline. No extension.
 
