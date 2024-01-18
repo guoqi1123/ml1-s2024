@@ -30,4 +30,9 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
     - Topics: Linear regression examples. [Course Whiteboard with explanation of pseudo-inverse solution of linear regression](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15732360/View) 
     - [Colab Demonstration - Legendre Polynomial, Autoregressive Model, and Outliers](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15732389/View)
     - Reading:
-        - Keep reading Week 1 Course note.
+        - Keep reading Week 1 Course note.  
+
+- Jan 18, 2024. Lecture 3.
+    - Topics: Outliers + Ridge Regression. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15740498/View)
+    - Reading:
+        - [Week 2 Course Note](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15740781/View)
