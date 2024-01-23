@@ -26,7 +26,7 @@ For any course related issue, please post as on Piazza, either as public or priv
 
 **Office Hours:** 
 TA office hours: Monday to Thursday 6-8pm, BHEE 209 Table 2  
-Prof Guo office hours: Thursday, 3-4pm, MSEE 370, or by appointment
+Prof Guo office hours: Thursday, 4-5pm, MSEE 370, or by appointment
 
 
 ## Past Offering
