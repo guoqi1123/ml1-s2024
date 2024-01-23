@@ -36,3 +36,8 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
     - Topics: Outliers + Ridge Regression. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15740498/View)
     - Reading:
         - [Week 2 Course Note](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15740781/View)
+
+**Week 3**
+- Jan 23, 2024. Lecture 4.  
+    - Topics: LASSO Regression. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15764256/View)
+    - [Colab Demonstration - Compression, Ridge Regression, LASSO, Shrinkage Operator](https://colab.research.google.com/drive/1bljOM3wQJeFG_tX3u5HRDQy73KZULccW)
