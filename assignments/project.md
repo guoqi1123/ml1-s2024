@@ -34,7 +34,7 @@ The final project is an effort throughout the semester. We will ask you submit s
 
 - Checkpoint 1. Problem Statement. Submit a one-page manuscript that rigorously explain the problem that the paper aims to solve. Answer why this problem is important and what are the applications. You want to use your own word to describe this. Closely resembling the original paper will result in heavy penalty. Due at Homework 2 deadline. (15% of the final project grade)
 
-- Checkpoint 2. Proposed Method. Submit a one-page manuscript that rigorously explain the method/model of the paper. Also, answer why the proposed method is better than other methods. You want to use your own word to describe this. Closely resembling the original paper will result in heavy penalty. Due at Homework 3 deadline. (15% of the final project grade)
+- Checkpoint 2. Method Description. Submit a one-page manuscript that rigorously explain the method/model of the paper. Also, answer why the proposed method is better than other methods. You want to use your own word to describe this. Closely resembling the original paper will result in heavy penalty. Due at Homework 3 deadline. (15% of the final project grade)
 
 - Checkpoint 3. Solving a Toy Problem. Submit a one-page manuscript that demonstrates solving a toy problem using your reimplementation. A toy problem can be a very simple dataset, e.g., the MNIST, or a hypothetical problem that you create just to demonstrate that your reimplementation works. Due at Homework 4 deadline. (15% of the final project grade)
 
@@ -70,11 +70,11 @@ Top teams of each topic will be invited to present their work to the class at th
 ## Instructions
 Your final report (aka paper) should have the following sections.
 
-**Problem Statement.** In the introduction section, you need to define the problem, and justify why it is a valuable problem to investigate. In each of the topics below, you are likely going to pick one or two sub-topics to investigate. In the introduction, I want to see your explanation of why do you pick those sub-problems. You can explain their significance, e.g., by solving this problem we will gain certain insights. Think about a conference reviewer. Why would somebody accept your paper? It has to be relevant, and useful.
+**Problem Statement.** This is what you wrote for checkpoint 1. You may want to update it as your understanding of your paper gets deeper through the semester and make it reads smoother with the other sections.
 
-**Method.** The heading of this section is up to you. I call it “method”, but you can call it whatever you want. This is the main part of your paper. If you are proposing a new idea, you need to explain your idea. If you are studying some phenonomenon, you need to explain the insights behind the phenonomenon. A good method section should contain a few very carefully drawn figures to illustrate your ideas. 
+**Method.** This is what you wrote for checkpoint 2. You may want to update it as your understanding of your paper gets deeper through the semester and make it reads smoother with the other sections.
 
-**Experiment.** As the heading suggests, this is the place where you put all your experimental results. You will put the result of solving the toy problem and the real problem here. You want to have comprehensive description of your experiment, so that people can easily see that your reimplementation is successful and can reproduce your experiment.
+**Experiment.** This is the place where you put all your experimental results. You will put the result of solving the toy problem and the real problem here. You want to have comprehensive description of your experiment, so that people can easily see that your reimplementation is successful and can reproduce your experiment.
 
 **Conclusion.** People are sometimes confused about the conclusion section. In my opinion, conclusion is not the same as summary. Yes, you need to summarize the paper in this section. But more importantly, you want to explain the limitations of your findings. You also need to suggest future directions of your work. Sometimes, you may have found some unexpected outcomes. Then in the conclusion you may want to comment on them.
 
