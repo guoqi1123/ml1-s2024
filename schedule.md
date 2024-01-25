@@ -41,3 +41,8 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
 - Jan 23, 2024. Lecture 4.  
     - Topics: LASSO Regression. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15764256/View)
     - [Colab Demonstration - Compression, Ridge Regression, LASSO, Shrinkage Operator](https://colab.research.google.com/drive/1bljOM3wQJeFG_tX3u5HRDQy73KZULccW)
+
+- Jan 25, 2024. Lecture 5.
+    - Topics: Optimization I. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15775232/View)
+    - Reading:
+        - [Tutorial on Optimization.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_04_optima.pdf)
