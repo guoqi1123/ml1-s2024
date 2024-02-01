@@ -46,3 +46,11 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
     - Topics: Optimization I. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15775232/View)
     - Reading:
         - [Tutorial on Optimization.](https://engineering.purdue.edu/ChanGroup/ECE595/files/Tutorial_04_optima.pdf)
+
+**Week 4**
+- Jan 30, 2024. Quiz 1.
+
+- Feb 1, 2024. Lecture 6.  
+    - Topics: Optimization II. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15806562/View)
+    - Reading: 
+        - [Week 3,4 Course Note](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15806754/View)
