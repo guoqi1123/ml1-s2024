@@ -60,3 +60,4 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
     - Topics: Optimization III. Linear Discriminant Analysis. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15824599/View)
     - Reading:
         - [Week 5 Course Note](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15825066/View)
+        - [Gradient Descent Demo](https://blog.skz.dev/gradient-descent)
