@@ -54,3 +54,9 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
     - Topics: Optimization II. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15806562/View)
     - Reading: 
         - [Week 3,4 Course Note](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15806754/View)
+
+**Week 5**
+- Feb 6, 2024. Lecture 7.
+    - Topics: Optimization III. Linear Discriminant Analysis. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15824599/View)
+    - Reading:
+        - [Week 5 Course Note](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15825066/View)
