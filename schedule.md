@@ -61,3 +61,8 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
     - Reading:
         - [Week 5 Course Note](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15825066/View)
         - [Gradient Descent Demo](https://blog.skz.dev/gradient-descent)
+
+- Feb 8, 2024. Lecture 8.
+    - Topics: Bayesian Decision Rule. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15835117/View)
+    - Reading:
+        - [Bayesian Decision Rule Demo](https://colab.research.google.com/drive/1DSN0z1GNAyok8_gC1YbyzmU_xN5Vho7J)

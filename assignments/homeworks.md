@@ -15,7 +15,7 @@ Late homework will not be accepted.
 - [Homework 0. (PDF.)](hw0.pdf) Do not hand in.
 - [Homework 1. (PDF.)](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15695739/View) Due: Jan. 25, 2024 Thursday. 11:59pm Eastern Time. 
 - [Homework 2. (PDF.)](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15773334/View) Due: Feb. 8, 2024 Thursday. 11:59pm Eastern Time. 
-- Homework 3. Due: Feb. 22, 2024 Thursday. 11:59pm Eastern Time. 
+- [Homework 3. (PDF.)](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15835282/View) Due: Feb. 22, 2024 Thursday. 11:59pm Eastern Time. 
 - Mini Challenge Due: Mar. 21, 2024 Thursday. 11:59pm Eastern Time. 
 - Homework 4. Due: Mar. 28, 2024 Thursday, 11:59pm Eastern Time. 
 - Homework 5. Due: Apr. 11, 2024 Thursday, 11:59pm Eastern Time.
