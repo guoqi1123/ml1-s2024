@@ -66,3 +66,10 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
     - Topics: Bayesian Decision Rule. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15835117/View)
     - Reading:
         - [Bayesian Decision Rule Demo](https://colab.research.google.com/drive/1DSN0z1GNAyok8_gC1YbyzmU_xN5Vho7J)
+
+**Week 6**
+- Feb 13, 2024. Lecture 9.
+    - Topics: ROC Curve. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15852631/View)
+    - Reading: 
+        - [Week 6 Course Note: ROC Curves](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15835117/View)
+        - [Week 6 Course Note: Maximum Likelihood Estimation](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15852681/View)
