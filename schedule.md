@@ -72,4 +72,8 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
     - Topics: ROC Curve. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15852631/View)
     - Reading: 
         - [Week 6 Course Note: ROC Curves](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15835117/View)
+
+- Feb 15, 2024. Lecture 10.
+    - Topics: Maximum Likelihood Estimation. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15866884/View)
+    - Reading:
         - [Week 6 Course Note: Maximum Likelihood Estimation](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15852681/View)
