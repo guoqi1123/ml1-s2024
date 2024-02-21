@@ -77,3 +77,11 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
     - Topics: Maximum Likelihood Estimation. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15866884/View)
     - Reading:
         - [Week 6 Course Note: Maximum Likelihood Estimation](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15852681/View)
+
+**Week 7**
+- Feb 20, 2024. Lecture 11.
+    - Topics: Maximum-a-posteriori Estimation, Logistic Regression. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15881994/View)
+    - Reading:
+        - [Python Demo](https://colab.research.google.com/drive/187eDDEAe_jJfvS3TPUc6xhpFw2Yect2T)
+        - [Week 7 Course Note: Maximum-a-posteriori Estimation](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15882013/View)
+        - [Week 7 Course Note: Logistic Regression](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15882014/View)
