@@ -85,3 +85,8 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
         - [Python Demo](https://colab.research.google.com/drive/187eDDEAe_jJfvS3TPUc6xhpFw2Yect2T)
         - [Week 7 Course Note: Maximum-a-posteriori Estimation](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15882013/View)
         - [Week 7 Course Note: Logistic Regression](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15882014/View)
+
+- Feb 22, 2024. Lecture 12.
+    - Topics: Logistic Regression, Kernel Method. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15889954/View)
+    - Reading:
+        - [Week 7 Course Note: Kernel Method](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15889962/View)
