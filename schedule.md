@@ -97,3 +97,9 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
     - Topics: Kernel Method. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15917141/View)
     - Reading:
         - [Python Demo: Kernel Method](https://colab.research.google.com/drive/1MLeV_6qLEID8SeM5r8DGl1PZ1jZYon2W)
+
+- Feb 29, 2024. Lecture 14.
+    - Topics: Multi-layer Perceptron. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15918453/View)
+    - Reading:
+        - [Week 8 Course Note: Multi-layer Perceptron](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15918608/View)
+        - [Demo: Multi-layer Perceptron](https://playground.tensorflow.org/)
