@@ -91,3 +91,9 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
     - Reading:
         - [Week 7 Course Note: Kernel Method](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15889962/View)
         - [Python Demo: Logistic Regression](https://colab.research.google.com/drive/1OFKZAFdPQPWsJoRL44eBHA7q4_lO0Wha?usp=sharing)
+
+**Week 8**
+- Feb 27, 2024. Lecture 13.
+    - Topics: Kernel Method. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15917141/View)
+    - Reading:
+        - [Python Demo: Kernel Method](https://colab.research.google.com/drive/1MLeV_6qLEID8SeM5r8DGl1PZ1jZYon2W)
