@@ -103,3 +103,10 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
     - Reading:
         - [Week 8 Course Note: Multi-layer Perceptron](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15918608/View)
         - [Demo: Multi-layer Perceptron](https://playground.tensorflow.org/)
+
+**Week 9**
+- Mar 5, 2024. Lecture 15.
+    - Topics: Convolutional Neural Networks. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15937885/View)
+    - Reading:
+        - [Week 9 Course Note: Convolutional Neural Network](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15937948/View)
+        - [Demo: MNIST](https://colab.research.google.com/drive/1C8tLA5__49o-_3vFk3paxPMfHOgYUctG?usp=sharing)
