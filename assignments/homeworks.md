@@ -17,7 +17,7 @@ Late homework will not be accepted.
 - [Homework 2. (PDF.)](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15773334/View) Due: Feb. 8, 2024 Thursday. 11:59pm Eastern Time. 
 - [Homework 3. (PDF.)](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15835282/View) Due: Feb. 22, 2024 Thursday. 11:59pm Eastern Time. 
 - [Homework 4. (PDF.)]() Due: Mar. 7, 2024 Thursday, 11:59pm Eastern Time. 
-- Mini Challenge Due: Mar. 28, 2024 Thursday. 11:59pm Eastern Time. 
+- [Mini Challenge](https://www.kaggle.com/competitions/purdue-face-recognition-challenge-2024) Due: Apr. 4, 2024 Thursday. 11:59pm Eastern Time. 
 - Homework 5. Due: Apr. 11, 2024 Thursday, 11:59pm Eastern Time.
 
 ## Online Homework Submission
