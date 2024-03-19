@@ -110,3 +110,15 @@ Recorded videos of the lectures can be found in Brightspace. The schedule is sub
     - Reading:
         - [Week 9 Course Note: Convolutional Neural Network](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15937948/View)
         - [Demo: MNIST](https://colab.research.google.com/drive/1C8tLA5__49o-_3vFk3paxPMfHOgYUctG?usp=sharing)
+
+- Mar 7, 2024. Seminar.
+
+**Week 10**
+Spring break.
+
+**Week 11**
+- Mar 19, 2024. Lecture 16.
+    - Topics: Encoder-Decoder. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15970311/View)
+    - Reading:
+        - Keep reading the course note of CNN.
+        - [Demo: Image Denoising MNIST](https://colab.research.google.com/drive/1C8tLA5__49o-_3vFk3paxPMfHOgYUctG?usp=sharing)
