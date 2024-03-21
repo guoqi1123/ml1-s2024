@@ -122,3 +122,6 @@ Spring break.
     - Reading:
         - Keep reading the course note of CNN.
         - [Demo: Image Denoising MNIST](https://colab.research.google.com/drive/1C8tLA5__49o-_3vFk3paxPMfHOgYUctG?usp=sharing)
+
+- Mar 21, 2024. Lecture 17.
+    - Topics: Probability Inequality. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15979175/View)
