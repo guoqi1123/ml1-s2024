@@ -125,3 +125,9 @@ Spring break.
 
 - Mar 21, 2024. Lecture 17.
     - Topics: Probability Inequality. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15979175/View)
+
+**Week 12**
+- Mar 26, 2024. Lecture 18.
+    - Topics: Is learning feasible? [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15996282/View)
+    - Reading:
+        - [Week 12 Course Note: Learning feasibility](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15996284/View)
