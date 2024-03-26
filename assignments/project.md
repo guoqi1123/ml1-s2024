@@ -38,7 +38,7 @@ The final project is an effort throughout the semester. We will ask you submit s
 
 - Checkpoint 3. Solving a Toy Problem. Submit a one-page manuscript that demonstrates solving a toy problem using your reimplementation. A toy problem can be a very simple dataset, e.g., the MNIST, or a hypothetical problem that you create just to demonstrate that your reimplementation works. Due at Homework 4 deadline. (15% of the final project grade)
 
-- Checkpoint 4. Submit a one-page manuscript that describe what real world problem that you propose to solve using your reimplementation, where the data comes from, and what the intended outcome is. Due at Mini Challenge deadline. (15% of the final project grade)
+- Checkpoint 4. Submit a one-page manuscript that describe what real world problem that you propose to solve using your reimplementation, where the data comes from, and what the intended outcome is. Due at Homework 5 deadline. (15% of the final project grade)
 
 - Final report due. Checkpoint 1 to 3 each becomes a section in the final report. Expand checkpoint 4 to include the results you obtain of solving the real world problem. (40% of the final project grade) 
 
