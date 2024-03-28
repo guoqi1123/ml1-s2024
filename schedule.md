@@ -131,3 +131,8 @@ Spring break.
     - Topics: Is learning feasible? [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15996282/View)
     - Reading:
         - [Week 12 Course Note: Learning feasibility](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/15996284/View)
+
+- Mar 28, 2024. Lecture 19.
+    - Topics: Generalization Bound [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16004955/View)
+    - Reading:
+        - [Week 12 Course Note: Generalization bound](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16004958/View)
