@@ -136,3 +136,9 @@ Spring break.
     - Topics: Generalization Bound [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16004955/View)
     - Reading:
         - [Week 12 Course Note: Generalization bound](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16004958/View)
+
+**Week 13**
+- Apr 2, 2024. Lecture 20.
+    - Topics: VC Dimension [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16022612/View)
+    - Reading:
+        - [Week 13 Course Note: VC Dimension](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16022623/View)
