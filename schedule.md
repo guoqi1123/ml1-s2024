@@ -147,3 +147,10 @@ Spring break.
     - Topics: Bias and Variance. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16500432/View)
     - Reading:
         - [Demo: Bias and Variance](https://colab.research.google.com/drive/1csJzHHXsKRl7nikCWSHgXdOumiGEHN0w)
+
+**Week 14**
+- Apr 9, 2024. Lecture 22.
+    - Topics: Regularization. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16519850/View)
+    - Reading:
+        - [Week 14: Overfitting](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16519856/View)
+        - [Demo: Overfitting and Regularization](https://colab.research.google.com/drive/1h2UtMI6dTSW0Fm8zqA93QzYduK4KOWoi?usp=sharing)
