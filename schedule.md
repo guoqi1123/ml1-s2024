@@ -154,3 +154,8 @@ Spring break.
     - Reading:
         - [Week 14: Overfitting](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16519856/View)
         - [Demo: Overfitting and Regularization](https://colab.research.google.com/drive/1h2UtMI6dTSW0Fm8zqA93QzYduK4KOWoi?usp=sharing)
+
+- Apr 11, 2024. Lecture 23.
+    - Topics: Validation. Special Topic: Variational Autoencoder I. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16530457/View)
+    - Reading:
+        - [Demo: Validation](https://colab.research.google.com/drive/1NUhyJYuyCbnVm3F3IKElh_UJ2tUh9j_C)
