@@ -159,3 +159,9 @@ Spring break.
     - Topics: Validation. Special Topic: Variational Autoencoder I. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16530457/View)
     - Reading:
         - [Demo: Validation](https://colab.research.google.com/drive/1NUhyJYuyCbnVm3F3IKElh_UJ2tUh9j_C)
+
+**Week 15**
+- Apr 16, 2024. Lecture 24.
+    - Special Topic: Variational Autoencoder II. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16549318/View)
+    - Reading:
+        - [Week 15: Expectation Maximization](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16549682/View)
