@@ -165,3 +165,10 @@ Spring break.
     - Special Topic: Variational Autoencoder II. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16549318/View)
     - Reading:
         - [Week 15: Expectation Maximization](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16549682/View)
+
+- Apr 18, 2024. Lecture 25.
+    - Special Topic: Variational Autoencoder III. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16580048/View)
+
+**Week 16**
+- Apr 23, 2024. Lecture 26.
+    - Special Topic: Variational Autoencoder IV. [Course Whiteboard](https://purdue.brightspace.com/d2l/le/content/949573/viewContent/16580049/View)
